@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://scorecoin.net/xmlrpc.php">
+
+<title>White Paper &#8211; Scorecoin</title>
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Scorecoin &raquo; Feed" href="http://scorecoin.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Scorecoin &raquo; Comments Feed" href="http://scorecoin.net/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Scorecoin &raquo; White Paper Comments Feed" href="http://scorecoin.net/executive-summary/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/scorecoin.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mb.YTPlayer_css-css'  href='http://scorecoin.net/wp-content/plugins/wp-ytplayer-plus/css/mb.YTPlayer.css?ver=3.2.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='beonepage-bootstrap-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/bootstrap.min.css?ver=3.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-font-awesome-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/font.awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-animate-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/animate.min.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-magnific-popup-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/magnific.popup.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-owl-carousel-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/owl.carousel.min.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-swiper-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/idangerous.swiper.css?ver=2.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/style.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-responsive-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/responsive.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-spinner-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/loaders.css?ver=20150816' type='text/css' media='all' />
+<link rel='stylesheet' id='beonepage-animsition-style-css'  href='http://scorecoin.net/wp-content/themes/beonepage-pro/layouts/animsition.min.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki_google_fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans:regular,italic,700,300,600,%7CDosis:regular,700,300,500,600,%7CRaleway:regular,700,300,500,600,400&#038;subset=all' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-php-css'  href='http://scorecoin.net/wp-admin/admin-ajax.php?action=kirki_dynamic_css' type='text/css' media='all' />
+<script type='text/javascript' src='http://scorecoin.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/animsition.min.js?ver=4.0.0'></script>
+<link rel='https://api.w.org/' href='http://scorecoin.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://scorecoin.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://scorecoin.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='Roadmap' href='http://scorecoin.net/roadmap/' />
+<meta name="generator" content="WordPress 4.9.2" />
+<link rel="canonical" href="http://scorecoin.net/executive-summary/" />
+<link rel='shortlink' href='http://scorecoin.net/?p=5' />
+<link rel="alternate" type="application/json+oembed" href="http://scorecoin.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fscorecoin.net%2Fexecutive-summary%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://scorecoin.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fscorecoin.net%2Fexecutive-summary%2F&#038;format=xml" />
+<link rel="icon" href="http://scorecoin.net/wp-content/uploads/2018/01/cropped-scorecoinLogo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://scorecoin.net/wp-content/uploads/2018/01/cropped-scorecoinLogo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://scorecoin.net/wp-content/uploads/2018/01/cropped-scorecoinLogo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://scorecoin.net/wp-content/uploads/2018/01/cropped-scorecoinLogo-270x270.png" />
+</head>
+
+<body class="post-template-default single single-post postid-5 single-format-standard group-blog animsition">
+<div id="page" class="hfeed site">
+	<a class="skip-link sr-only" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header sticky" role="banner">
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 clearfix">
+					<div class="site-branding">
+													<h1 class="site-title"><a href="http://scorecoin.net/" rel="home">Scorecoin</a></h1>
+											</div><!-- .site-branding -->
+
+					<span id="mobile-menu" class="mobile-menu"></span>
+
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<ul id="primary-menu" class="menu clearfix"><li id="menu-item-63" class=" class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-63&quot;"><a href="http://scorecoin.net/">Home</a></li>
+<li id="menu-item-128" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-128&quot;"><a href="#about">About</a></li>
+<li id="menu-item-129" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-129&quot;"><a href="#specs">Specs</a></li>
+<li id="menu-item-84" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-84&quot;"><a href="#exchanges">Exchanges</a></li>
+<li id="menu-item-184" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-184&quot;"><a href="#roadmap">Roadmap</a></li>
+<li id="menu-item-178" class=" class=&quot;menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-178&quot;"><a href="http://scorecoin.net/executive-summary/">White Paper</a></li>
+<li id="menu-item-195" class=" class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-195&quot;"><a href="http://scorecoin.net/blockchain-explorer/">Explorer</a></li>
+<li id="menu-item-71" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71&quot;"><a>Contact</a>
+<ul class="sub-menu clearfix">
+	<li id="menu-item-58" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-58&quot;"><a href="#team">Team</a></li>
+	<li id="menu-item-72" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-72&quot;"><a href="#twitter-module">Social</a></li>
+</ul>
+</li>
+</ul>					</nav><!-- #site-navigation -->
+				</div><!-- .col-md-12 -->
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<header class="page-header img-background clearfix">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h1 class="page-title">Blog</h1>
+
+					<ol class="bcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><li><a href="http://scorecoin.net/" rel="v:url" property="v:title">Home</a></li>/<li><a href="http://scorecoin.net/blog/" rel="v:url" property="v:title">Blog</a></li>/<li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://scorecoin.net/category/announcements/">Announcements</a></li>/<li class="active">White Paper</li></ol><!-- .breadcrumbs -->				</div><!-- col-md-12 -->
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</header><!-- .page-header -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<div id="primary" class="content-area">
+					<main id="main" class="site-main" role="main">
+						
+<article id="post-5" class="clearfix post-5 post type-post status-publish format-standard hentry category-announcements">
+	<header class="entry-header">
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<h1 class="entry-title">White Paper</h1>
+		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="http://scorecoin.net/executive-summary/" rel="bookmark"><time class="entry-date published" datetime="2018-01-14T19:09:33+00:00">14th January 2018</time><time class="updated" datetime="2018-01-17T21:47:16+00:00">17th January 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://scorecoin.net/author/ryan/">Ryan</a></span></span>		</div><!-- .entry-meta -->
+
+		<p>The original Scorecoin, which was a Proof of Work Coin, has been updated to implement Masternode capabilities. The current version is now Proof of Stake (POS). Our vision for Scorecoin is to connect game developers and gamers, enabling them to seamlessly transact and purchase additional functionality within respective games.The main usage envisioned for Scorecoin is to be an in-game Currency for mobile games. We also plan to get Scorecoin accepted within game stores as a payment method.</p>
+<p>Scorecoin in its current state offers two distinct advantages over Bitcoin as a traditional payments method:</p>
+<p>Scorecoin transactions are confirmed in a much faster fashion, lending themselves more useful for payments processing</p>
+<p>The expensive transaction fees for Bitcoin do not lend themselves useful for small transactions. Scorecoin facilitates micro transactions for in-gape purchases</p>
+<p>&nbsp;</p>
+<p>To differentiate from projects that may operate in the gaming sphere, we have clearly narrowed our focus on a specific channel, mobile games. More specifically, we will concentrate on Android games in the initial stages, with a plan to broaden our in-app currency solution offerings to IOS games in the near future.</p>
+<p>The Masternode version is POS, meaning that you do not need dedicated machines to mine it. This provides Scorecoin community and miners an energy efficient and simple mining solution. By locking coins, masternode owners are incentivized to continue operating their node to receive a periodic reward in the form of more Scorecoins.</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+	<nav class="post-navigation clearfix" role="navigation">
+		<h2 class="sr-only">Post navigation</h2>
+		<ul class="nav-links">
+			<li class="nav-next pull-right"><a href="http://scorecoin.net/roadmap/" rel="next">Roadmap</a></li>		</ul><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+<div id="comments" class="comments-area">
+
+	
+	
+	
+	<!-- Comment form begin -->
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a <span>Comment</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/executive-summary/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://scorecoin.net/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><fieldset class="col-sm-12 textarea-field"><textarea name="comment" placeholder="Comment&lowast;" id="comment" rows="7" tabindex="4" class="input-form-control" required></textarea></fieldset><div class="input-field clearfix"><fieldset class="col-sm-4"><input type="text" name="author" id="name" placeholder="Name&lowast;" value="" tabindex="1" class="input-form-control" required /></fieldset>
+<fieldset class="col-sm-4"><input type="email" name="email" id="email" placeholder="E-Mail&lowast;" value="" tabindex="2" class="input-form-control" required /></fieldset>
+<fieldset class="col-sm-4"><input id="url" name="url" type="text" placeholder="Website" value="" tabindex="3" class="input-form-control" /></fieldset></div>
+<fieldset class="col-sm-12 form-submit text-right"><input name="submit" type="submit" id="submit" class="submit" value="Submit Comment" /> <input type='hidden' name='comment_post_ID' value='5' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</a></fieldset>			</form>
+			</div><!-- #respond -->
+		<!-- Comment form end -->
+</div><!-- #comments -->
+					</main><!-- #main -->
+				</div><!-- #primary -->
+			</div><!-- col-md-9 -->
+
+					</div><!-- .row -->
+	</div><!-- .container -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer clearfix" role="contentinfo">
+					<div class="site-branding col-md-12 clearfix">
+				
+									<h1 class="site-title wow none" data-wow-delay=".3s">Scorecoin</h1>
+							</div><!-- .site-branding -->
+		
+					<div class="social-link col-md-12 wow none" data-wow-delay=".3s">
+				<ul id="menu-footer" class="menu"><li id="menu-item-207" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-207&quot;"><a href="https://twitter.com/ScorecoinMark"><i class="fa fa-twitter"></i><div>Twitter</div></a></li>
+<li id="menu-item-208" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-208&quot;"><a href="https://web.telegram.org/#/im?p=@ScoreTrade"><i class="fa fa-telegram"></i><div>Telegram</div></a></li>
+<li id="menu-item-209" class=" class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-209&quot;"><a href="https://discordapp.com/channels/330810366991007745/330810366991007745"><i class="fa fa-wechat"></i><div>Discord</div></a></li>
+</ul>			</div><!-- .social-link -->
+		
+		<div class="site-info col-md-12">
+			Copyrights © 2016. All Rights Reserved.		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+			<div id="go-to-top" class="go-to-top btn btn-light"><i class="fa fa-angle-up"></i></div>
+	</div><!-- #page -->
+
+<script type='text/javascript' src='http://scorecoin.net/wp-content/plugins/wp-ytplayer-plus/js/jquery.mb.YTPlayer.js?ver=3.2.4'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/bootstrap.min.js?ver=3.3.7'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jrespond.min.js?ver=0.10'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/smooth.scroll.js?ver=1.4.6'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.stellar.min.js?ver=0.6.2'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/wow.min.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.transit.js?ver=0.9.12'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.easing.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.mb.ytplayer.min.js?ver=3.0.20'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/imagesloaded.pkgd.min.js?ver=4.1.3'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/isotope.pkgd.min.js?ver=3.0.4'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.nicescroll.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.smooth.scroll.min.js?ver=2.2.0'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.magnific.popup.min.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/owl.carousel.min.js?ver=2.3.0'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.flexslider.min.js?ver=2.6.3'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/idangerous.swiper.min.js?ver=2.7.6'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.validate.min.js?ver=1.16.0'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.count.to.js?ver=1.2.0'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/jquery.waypoints.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key&#038;ver=3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var app_vars = {"ajax_url":"http:\/\/scorecoin.net\/wp-admin\/admin-ajax.php","home_url":"http:\/\/scorecoin.net\/","current_page_url":"http:\/\/scorecoin.net\/executive-summary\/","page_transition_spinner":"16","loading_spinner_color":"#ffcc00","loading_background_color":"#181a1c","progress_bar_color":"#ffcc00","accent_color":"#ffcc00","btn_style":"1","close_map":"Close the map","play":"Play","pause":"Pause","mute":"Mute","unmute":"Unmute","popup":"Show player in popup window","added_to_cart":"Added to cart"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://scorecoin.net/wp-content/themes/beonepage-pro/js/app.js?ver=1.6.2'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-includes/js/comment-reply.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://scorecoin.net/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+
+
+	<!-- START - mbYTPlayer shortcode video -->
+	
+	<script type="text/javascript">
+    function onYouTubePlayerAPIReady() {
+    	if(ytp.YTAPIReady)
+		    return;
+	    ytp.YTAPIReady=true;
+	    jQuery(document).trigger("YTAPIReady");
+    }
+     setTimeout(function(){
+         jQuery(".mbYTPMovie").YTPlayer()
+     },2000);
+	</script>
+	<!-- END -->
+    <!-- YTPlayer video conditions
+
+	    ytpl_is_active = "true"
+	    ytpl_video_page = "static"
+	    ytpl_canShowMovie = "false"
+	    ytpl_is_front_page = "false"
+	    ytpl_is_home = "false"
+
+    -->
+</body>
+</html>

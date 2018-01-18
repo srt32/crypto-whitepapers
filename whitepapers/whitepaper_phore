@@ -299,28 +299,28 @@ Click the help icon above to learn more.
 				
 					
 						<li class="nav-item w-140">
-							<a class="nav-link active" data-toggle="tab" href="#tab-5a60ca062c7aa-1">Phore Whitepaper</a>
+							<a class="nav-link active" data-toggle="tab" href="#tab-5a60da1477677-1">Phore Whitepaper</a>
 						</li>
 
 					
 				
 					
 						<li class="nav-item w-140">
-							<a class="nav-link" data-toggle="tab" href="#tab-5a60ca062c7aa-2">PoS 2.0</a>
+							<a class="nav-link" data-toggle="tab" href="#tab-5a60da1477677-2">PoS 2.0</a>
 						</li>
 
 					
 				
 					
 						<li class="nav-item w-140">
-							<a class="nav-link" data-toggle="tab" href="#tab-5a60ca062c7aa-3">PoS 3.0</a>
+							<a class="nav-link" data-toggle="tab" href="#tab-5a60da1477677-3">PoS 3.0</a>
 						</li>
 
 					
 				
 					
 						<li class="nav-item w-140">
-							<a class="nav-link" data-toggle="tab" href="#tab-5a60ca062c7aa-4">ZeroCoin</a>
+							<a class="nav-link" data-toggle="tab" href="#tab-5a60da1477677-4">ZeroCoin</a>
 						</li>
 
 					
@@ -334,14 +334,14 @@ Click the help icon above to learn more.
 			<div class="tab-content text-center" data-aos="fade-in">
 				
 					
-						<div class="tab-pane fade show active" id="tab-5a60ca062c7aa-1">
+						<div class="tab-pane fade show active" id="tab-5a60da1477677-1">
 							<h2>Phore Whitepaper PDF</h2>
 <h4><a href="https://github.com/phoreproject/documentation/blob/master/raw_documents/Phore_Whitepaper_2_EN.pdf" target="_blank" rel="noopener">English</a></h4>						</div>
 
 					
 				
 					
-						<div class="tab-pane fade" id="tab-5a60ca062c7aa-2">
+						<div class="tab-pane fade" id="tab-5a60da1477677-2">
 							<h2>Proof of Stake 2.0 Whitepaper PDF</h2>
 <h4><a href="http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf" target="_blank" rel="noopener">Download</a></h4>
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 26px; left: 20px;">Save</span>						</div>
@@ -349,7 +349,7 @@ Click the help icon above to learn more.
 					
 				
 					
-						<div class="tab-pane fade" id="tab-5a60ca062c7aa-3">
+						<div class="tab-pane fade" id="tab-5a60da1477677-3">
 							<h2>Proof of Stake 3.0 Whitepaper PDF</h2>
 <h4><a href="https://www.dropbox.com/s/c3yldgd67yve7pt/Blackcoin%20POS%203.pdf" target="_blank" rel="noopener">Download</a></h4>
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 26px; left: 20px;">Save</span>
@@ -358,7 +358,7 @@ Click the help icon above to learn more.
 					
 				
 					
-						<div class="tab-pane fade" id="tab-5a60ca062c7aa-4">
+						<div class="tab-pane fade" id="tab-5a60da1477677-4">
 							<h2>Zerocoin Protocol Whitepaper PDF</h2>
 <h4><a href="http://spar.isi.jhu.edu/~mgreen/ZerocoinOakland.pdf" target="_blank" rel="noopener">Download</a></h4>
 <span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 26px; left: 20px;">Save</span>						</div>

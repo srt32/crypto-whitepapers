@@ -447,6 +447,7 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 <script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/third-party.min.js?ver=4.8.5'></script>
 <script type='text/javascript' src='http://tao.network/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=4.12'></script>
 <script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/modules/plugins/packery-mode.pkgd.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/smoothPageScroll.js?ver=4.8.5'></script>
 <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?ver=4.8.5'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
