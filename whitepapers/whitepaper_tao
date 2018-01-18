@@ -1,0 +1,468 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+		        <meta charset="UTF-8"/>
+        <link rel="profile" href="http://gmpg.org/xfn/11"/>
+        <link rel="pingback" href="http://tao.network/xmlrpc.php"/>
+                <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+        
+	<title>White Papers &#8211; Tao Network</title>
+<script type="application/javascript">var mkdCoreAjaxUrl = "http://tao.network/wp-admin/admin-ajax.php"</script><script type="application/javascript">var MikadoAjaxUrl = "http://tao.network/wp-admin/admin-ajax.php"</script><link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Tao Network &raquo; Feed" href="http://tao.network/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tao Network &raquo; Comments Feed" href="http://tao.network/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tao Network &raquo; White Papers Portfolio Category Feed" href="http://tao.network/portfolio-category/white-papers/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/tao.network\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://tao.network/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://tao.network/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='hue_mikado_default_style-css'  href='http://tao.network/wp-content/themes/hue/style.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_modules_plugins-css'  href='http://tao.network/wp-content/themes/hue/assets/css/plugins.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://tao.network/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://tao.network/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_modules-css'  href='http://tao.network/wp-content/themes/hue/assets/css/modules.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkd_font_awesome-css'  href='http://tao.network/wp-content/themes/hue/assets/css/font-awesome/css/font-awesome.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkd_font_elegant-css'  href='http://tao.network/wp-content/themes/hue/assets/css/elegant-icons/style.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkd_ion_icons-css'  href='http://tao.network/wp-content/themes/hue/assets/css/ion-icons/css/ionicons.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkd_linea_icons-css'  href='http://tao.network/wp-content/themes/hue/assets/css/linea-icons/style.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkd_linear_icons-css'  href='http://tao.network/wp-content/themes/hue/assets/css/linear-icons/style.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkd_simple_line_icons-css'  href='http://tao.network/wp-content/themes/hue/assets/css/simple-line-icons/simple-line-icons.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mkd_dripicons-css'  href='http://tao.network/wp-content/themes/hue/assets/css/dripicons/dripicons.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_blog-css'  href='http://tao.network/wp-content/themes/hue/assets/css/blog.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_style_dynamic-css'  href='http://tao.network/wp-content/themes/hue/assets/css/style_dynamic.css?ver=1512605463' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_modules_responsive-css'  href='http://tao.network/wp-content/themes/hue/assets/css/modules-responsive.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_blog_responsive-css'  href='http://tao.network/wp-content/themes/hue/assets/css/blog-responsive.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_style_dynamic_responsive-css'  href='http://tao.network/wp-content/themes/hue/assets/css/style_dynamic_responsive.css?ver=1512605463' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://tao.network/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='hue_mikado_google_fonts-css'  href='http://fonts.googleapis.com/css?family=Source+Sans+Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSource+Sans+Pro%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='childstyle-css'  href='http://tao.network/wp-content/themes/hue-child/style.css?ver=4.8.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://tao.network/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/tao.network\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/tao.network\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.12'></script>
+<link rel='https://api.w.org/' href='http://tao.network/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tao.network/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tao.network/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.5" />
+<meta name="generator" content="WooCommerce 3.2.1" />
+<script src="http://tao.network/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/js/cryptobox.min.js?ver=1.4.1" type="text/javascript"></script>
+			  <link rel="stylesheet" type="text/css" href="http://tao.network/wp-content/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/css/style.front.css?ver=1.4.1" media="all" /><style type="text/css">    </style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://tao.network/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://tao.network/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://tao.network/wp-content/uploads/2017/12/cropped-tao-256-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://tao.network/wp-content/uploads/2017/12/cropped-tao-256-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://tao.network/wp-content/uploads/2017/12/cropped-tao-256-180x180.png" />
+<meta name="msapplication-TileImage" content="http://tao.network/wp-content/uploads/2017/12/cropped-tao-256-270x270.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="archive tax-portfolio-category term-white-papers term-60 mkd-core-1.0 hue child-child-ver-1.0.0 hue-ver-1.0.1 mkd-smooth-scroll mkd-smooth-page-transitions mkd-mimic-ajax mkd-grid-1300 mkd-blog-installed mkd-footer-with-bg-image mkd-header-standard mkd-sticky-header-on-scroll-up mkd-default-mobile-header mkd-sticky-up-mobile-header mkd-header-standard-in-grid-border-disable mkd-header-minimal-in-grid-border-disable mkd-header-divided-in-grid-border-disable mkd-header-centered-logo-border-disable mkd-header-centered-menu-border-disable mkd-header-centered-logo-in-grid-border-disable mkd-header-centered-menu-in-grid-border-disable mkd-header-standard-extended-logo-in-grid-border-disable mkd-header-standard-extended-menu-in-grid-border-disable wpb-js-composer js-comp-ver-4.12 vc_responsive">
+
+
+	<div class="mkd-smooth-transition-loader mkd-mimic-ajax">
+		<div class="mkd-st-loader">
+			<div class="mkd-st-loader1">
+				<div class="pulse_circles"><div class="ball ball-1"></div><div class="ball ball-2"></div><div class="ball ball-3"></div><div class="ball ball-4"></div></div>			</div>
+		</div>
+	</div>
+
+<div class="mkd-wrapper">
+	<div class="mkd-wrapper-inner">
+		
+<header class="mkd-page-header">
+			<div class="mkd-menu-area">
+						<div class="mkd-grid">
+												<div class="mkd-vertical-align-containers">
+					<div class="mkd-position-left">
+						<div class="mkd-position-left-inner">
+							
+	<div class="mkd-logo-wrapper">
+		<a href="http://tao.network/" style="height: 1661px;">
+			<img height="3323" width="2109" class="mkd-normal-logo" src="http://tao.network/wp-content/uploads/2017/12/full.png" alt="logo"/>
+							<img height="3323" width="2109" class="mkd-dark-logo" src="http://tao.network/wp-content/uploads/2017/12/full.png" alt="dark logo"/>							<img height="3323" width="2109" class="mkd-light-logo" src="http://tao.network/wp-content/uploads/2016/09/TAOWhite.png" alt="light logo"/>		</a>
+	</div>
+
+                            
+	<nav class="mkd-main-menu mkd-drop-down mkd-default-nav">
+		<ul id="menu-main-menu" class="clearfix"><li id="nav-menu-item-7704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="http://tao.network/" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Blockchain Download</span></span><span class="plus"></span></span></a></li>
+<li id="nav-menu-item-7705" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="http://tao.network/blog/" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Blog</span></span><span class="plus"></span></span></a></li>
+<li id="nav-menu-item-7706" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="http://taoexplorer.com" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Explorer</span></span><span class="plus"></span></span></a></li>
+<li id="nav-menu-item-7707" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="http://tao.network/wallet/#wallet" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Presale Wallet</span></span><span class="plus"></span></span></a></li>
+<li id="nav-menu-item-7734" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio-category current-menu-item mkd-active-item narrow"><a href="http://tao.network/portfolio-category/white-papers/" class=" current "><span class="item_outer"><span class="item_inner"><span class="item_text">White Papers</span></span><span class="plus"></span></span></a></li>
+</ul>	</nav>
+
+						</div>
+					</div>
+					<div class="mkd-position-right">
+						<div class="mkd-position-right-inner">
+													</div>
+					</div>
+				</div>
+							</div>
+				</div>
+			
+	<div class="mkd-sticky-header">
+				<div class="mkd-sticky-holder">
+						<div class="mkd-grid">
+								<div class=" mkd-vertical-align-containers">
+					<div class="mkd-position-left">
+						<div class="mkd-position-left-inner">
+							
+	<div class="mkd-logo-wrapper">
+		<a href="http://tao.network/" style="height: 720px;">
+			<img height="1440" width="3240" class="mkd-normal-logo" src="http://tao.network/wp-content/uploads/2016/09/TAOBlack.png" alt="logo"/>
+							<img height="1440" width="3240" class="mkd-dark-logo" src="http://tao.network/wp-content/uploads/2017/12/full.png" alt="dark logo"/>							<img height="1440" width="3240" class="mkd-light-logo" src="http://tao.network/wp-content/uploads/2016/09/TAOWhite.png" alt="light logo"/>		</a>
+	</div>
+
+                            
+	<nav class="mkd-main-menu mkd-drop-down mkd-sticky-nav">
+		<ul id="menu-main-menu-1" class="clearfix"><li id="sticky-nav-menu-item-7704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"><a href="http://tao.network/" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Blockchain Download</span></span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-7705" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="http://tao.network/blog/" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Blog</span></span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-7706" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="http://taoexplorer.com" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Explorer</span></span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-7707" class="menu-item menu-item-type-custom menu-item-object-custom  narrow"><a href="http://tao.network/wallet/#wallet" class=""><span class="item_outer"><span class="item_inner"><span class="item_text">Presale Wallet</span></span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-7734" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio-category current-menu-item mkd-active-item narrow"><a href="http://tao.network/portfolio-category/white-papers/" class=" current "><span class="item_outer"><span class="item_inner"><span class="item_text">White Papers</span></span><span class="plus"></span></span></a></li>
+</ul>	</nav>
+
+						</div>
+					</div>
+					<div class="mkd-position-right">
+						<div class="mkd-position-right-inner">
+													</div>
+					</div>
+				</div>
+							</div>
+				</div>
+	</div>
+
+</header>
+
+
+	<header class="mkd-mobile-header">
+		<div class="mkd-mobile-header-inner">
+						<div class="mkd-mobile-header-holder">
+				<div class="mkd-grid">
+					<div class="mkd-vertical-align-containers">
+													<div class="mkd-mobile-menu-opener">
+								<a href="javascript:void(0)">
+                    <span class="mkd-mobile-opener-icon-holder">
+                        <i class="mkd-icon-font-awesome fa fa-bars " ></i>                    </span>
+								</a>
+							</div>
+																			<div class="mkd-position-center">
+								<div class="mkd-position-center-inner">
+									
+	<div class="mkd-mobile-logo-wrapper">
+		<a href="http://tao.network/" style="height: 1661px">
+			<img height="3323" width="2109" src="http://tao.network/wp-content/uploads/2017/12/full.png" alt="mobile-logo"/>
+		</a>
+	</div>
+
+								</div>
+							</div>
+												<div class="mkd-position-right">
+							<div class="mkd-position-right-inner">
+															</div>
+						</div>
+					</div>
+					<!-- close .mkd-vertical-align-containers -->
+				</div>
+			</div>
+			
+	<nav class="mkd-mobile-nav">
+		<div class="mkd-grid">
+			<ul id="menu-main-menu-2" class=""><li id="mobile-menu-item-7704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home "><a href="http://tao.network/" class=""><span>Blockchain Download</span></a></li>
+<li id="mobile-menu-item-7705" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://tao.network/blog/" class=""><span>Blog</span></a></li>
+<li id="mobile-menu-item-7706" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="http://taoexplorer.com" class=""><span>Explorer</span></a></li>
+<li id="mobile-menu-item-7707" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="http://tao.network/wallet/#wallet" class=""><span>Presale Wallet</span></a></li>
+<li id="mobile-menu-item-7734" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio-category current-menu-item mkd-active-item"><a href="http://tao.network/portfolio-category/white-papers/" class=" current "><span>White Papers</span></a></li>
+</ul>		</div>
+	</nav>
+
+		</div>
+	</header> <!-- close .mkd-mobile-header -->
+
+
+
+					<a id='mkd-back-to-top' href='#'>
+                <span class="mkd-icon-stack mkd-type1-gradient-left-to-right-text">
+                     <i class="mkd-icon-linear-icon lnr lnr-chevron-up " ></i>                </span>
+			</a>
+		        		<div class="mkd-content" >
+						<div class="mkd-content-inner">
+	<div class="mkd-title mkd-breadcrumb-type mkd-content-left-alignment mkd-animation-no" style="height:90px;" data-height="90" >
+		<div class="mkd-title-image">        </div>
+        		<div class="mkd-title-holder" style="height:90px;">
+			<div class="mkd-container clearfix">
+				<div class="mkd-container-inner">
+					<div class="mkd-title-subtitle-holder" style="">
+						<div class="mkd-title-subtitle-holder-inner">
+																<div class="mkd-breadcrumbs-holder"> <div class="mkd-breadcrumbs"><div class="mkd-breadcrumbs-inner"><a href="http://tao.network/">Tao Network</a><span class="mkd-delimiter">&nbsp;&gt;&nbsp;</span></div></div></div>
+															</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<div class="mkd-container">
+	<div class="mkd-container-inner clearfix">
+		<div class="mkd-grid-row">
+    <div class="mkd-page-content-holder mkd-grid-col-12">
+        <div class="mkd-blog-holder mkd-blog-type-standard " data-blog-type="standard"  >
+    <article id="post-7732" class="post-7732 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-white-papers">
+	<div class="mkd-post-content">
+			<div class="mkd-post-image">
+		<a href="http://tao.network/portfolio-item/the-identity-system/" title="The Identity System">
+			<img width="117" height="128" src="http://tao.network/wp-content/uploads/2016/09/id-1.png" class="attachment-full size-full wp-post-image" alt="" />		</a>
+	</div>
+		<div class="mkd-post-text">
+			<div class="mkd-post-text-inner">
+				<h2 class="mkd-post-title">
+<a href="http://tao.network/portfolio-item/the-identity-system/" title="The Identity System">The Identity System</a>
+</h2>				<div class="mkd-post-info">
+					<div class="mkd-post-info-date">
+            <span>September 17, 2016</span>
+        </div><div class="mkd-post-info-author mkd-post-info-item">
+	<span class="mkd-post-info-author-icon">
+			<i class="mkd-icon-linear-icon lnr lnr-user " ></i>		</span>
+	by    <a class="mkd-post-info-author-link" href="http://tao.network/author/bryce/">
+		bryce    </a>
+</div>
+<div class="mkd-post-info-comments-holder mkd-post-info-item">
+	<a class="mkd-post-info-comments" href="http://tao.network/portfolio-item/the-identity-system/#respond">
+		<span class="mkd-post-info-comments-icon">
+			<i class="mkd-icon-linear-icon lnr lnr-bubble " ></i>		</span>
+		<span class="mkd-comment-number">0</span>
+		<span>Comments</span>
+	</a>
+</div>				</div>
+				<p class="mkd-post-excerpt">A cryptographic identity compliant with US DHS privacy guidelines....</p>			</div>
+			<div class="mkd-category-share-holder clearfix">
+				<div class="mkd-categories-list">
+					<div class="mkd-post-info-category mkd-post-info-item">
+	</div>				</div>
+				<div class="mkd-share-icons">
+																<span class="mkd-share-label">Share</span>
+										<div class="mkd-social-share-holder mkd-list">
+	<ul>
+		<li class="mkd-twitter-share">
+	<a class="mkd-share-link" href="#" onclick="window.open('http://twitter.com/home?status=A+cryptographic+identity+compliant+with+US+DHS+privacy+guidelines.http://tao.network/portfolio-item/the-identity-system/', 'popupwindow', 'scrollbars=yes,width=800,height=400');">
+					<span class="mkd-social-network-icon fa fa-twitter"></span>
+			</a>
+</li>	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</article>    </div>
+    </div>
+
+    </div>
+
+	</div>
+</div>
+</div> <!-- close div.content_inner -->
+</div>  <!-- close div.content -->
+
+	<footer class="mkd-page-footer">
+		<div class="mkd-footer-inner clearfix">
+
+			
+<div class="mkd-footer-top-holder">
+	<div class="mkd-footer-top mkd-footer-top-aligment-left">
+		
+		<div class="mkd-container">
+			<div class="mkd-container-inner">
+
+				
+<div class="mkd-grid-row mkd-footer-top-three-cols">
+			<div class="mkd-grid-col-4">
+			<div id="text-2" class="widget mkd-footer-column-1 widget_text"><h5 class="mkd-footer-widget-title">About Us</h5>			<div class="textwidget">The Tao Network is a blockchain public utility in the public trust intended to serve the music industry.
+
+<div data-original-height="20" class="vc_empty_space"  style="height: 20px" >
+	<span class="vc_empty_space_inner"></span></div>
+</div>
+		</div><div id="text-3" class="widget mkd-footer-column-1 widget_text">			<div class="textwidget"><h5>Subscribe To Our Newsletter</h5>
+
+<div role="form" class="wpcf7" id="wpcf7-f7717-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/portfolio-category/white-papers/#wpcf7-f7717-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="7717" />
+<input type="hidden" name="_wpcf7_version" value="4.9.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7717-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<p><label> Your Name (required)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Your Email (required)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label><br />
+<span class="wpcf7-form-control-wrap ctct-269"><span class="wpcf7-form-control wpcf7-ctct"><div><input type="hidden" value="1616643209" name="ctct-269[]" />
+</div></span></span><br />
+<input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</div>		</div>
+			<div class="mkd-grid-col-4">
+			<div id="mkd_twitter_widget-2" class="widget mkd-footer-column-2 widget_mkd_twitter_widget"><h5 class="mkd-footer-widget-title">Twitter</h5>					<ul class="mkd_twitter_widget">
+													<li>
+								<div class="mkd_tweet_text">
+									<div class="mkd-tweet-icon">
+										<span aria-hidden="true" class="social_twitter"></span>
+									</div>
+									<div class="mkd-tweet-holder">
+										RT <a target="_blank" href="http://twitter.com/BryceWeiner">@BryceWeiner</a>: Crypto, stay awesome. 😂
+#smdh $XTO <a target="_blank" href="https://t.co/lPnW7wk0YS">https://t.co/lPnW7wk0YS</a>									</div>
+								</div>
+																	<div class="mkd_tweet_time">
+
+										<a target="_blank" href="https://twitter.com/taoblockchain/statuses/948750566167003136">
+											2 weeks ago										</a>
+									</div>
+															</li>
+													<li>
+								<div class="mkd_tweet_text">
+									<div class="mkd-tweet-icon">
+										<span aria-hidden="true" class="social_twitter"></span>
+									</div>
+									<div class="mkd-tweet-holder">
+										#NewProfilePic <a target="_blank" href="https://t.co/xjQcfLgXPy">https://t.co/xjQcfLgXPy</a>									</div>
+								</div>
+																	<div class="mkd_tweet_time">
+
+										<a target="_blank" href="https://twitter.com/taoblockchain/statuses/946226110236311553">
+											3 weeks ago										</a>
+									</div>
+															</li>
+													<li>
+								<div class="mkd_tweet_text">
+									<div class="mkd-tweet-icon">
+										<span aria-hidden="true" class="social_twitter"></span>
+									</div>
+									<div class="mkd-tweet-holder">
+										RT <a target="_blank" href="http://twitter.com/BitsMickel">@BitsMickel</a>: 🔥The music industry is about to be set on fire🔥
+$xto <a target="_blank" href="http://twitter.com/taoblockchain">@taoblockchain</a> <a target="_blank" href="http://twitter.com/_altmarket">@_altmarket</a>									</div>
+								</div>
+																	<div class="mkd_tweet_time">
+
+										<a target="_blank" href="https://twitter.com/taoblockchain/statuses/937401289914191872">
+											2 months ago										</a>
+									</div>
+															</li>
+											</ul>
+				</div>		</div>
+			<div class="mkd-grid-col-4">
+					</div>
+	</div>			</div>
+		</div>
+		</div>
+</div>
+
+	<div class="mkd-footer-bottom-holder">
+		<div class="mkd-footer-bottom-holder-inner">
+						<div class="mkd-container">
+				<div class="mkd-container-inner">
+
+					<div class="mkd-grid-row mkd-footer-bottom-two-cols">
+	<div class="mkd-grid-col-6">
+		<div id="text-4" class="widget mkd-footer-bottom-left widget_text">			<div class="textwidget"></div>
+		</div><div id="nav_menu-2" class="widget mkd-footer-bottom-left widget_nav_menu"><div class="menu-main-menu-container"><ul id="menu-main-menu-3" class="menu"><li id="menu-item-7704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7704"><a href="http://tao.network/">Blockchain Download</a></li>
+<li id="menu-item-7705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7705"><a href="http://tao.network/blog/">Blog</a></li>
+<li id="menu-item-7706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7706"><a href="http://taoexplorer.com">Explorer</a></li>
+<li id="menu-item-7707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7707"><a href="http://tao.network/wallet/#wallet">Presale Wallet</a></li>
+<li id="menu-item-7734" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio-category current-menu-item menu-item-7734"><a href="http://tao.network/portfolio-category/white-papers/">White Papers</a></li>
+</ul></div></div>	</div>
+	<div class="mkd-grid-col-6">
+			</div>
+</div>				</div>
+			</div>
+				</div>
+	</div>
+
+		</div>
+	</footer>
+
+</div> <!-- close div.mkd-wrapper-inner  -->
+</div> <!-- close div.mkd-wrapper -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/tao.network\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/tao.network\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/tao.network\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_bed18c522473842535d641282c870608"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/third-party.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=4.12'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/modules/plugins/packery-mode.pkgd.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?ver=4.8.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mkdGlobalVars = {"vars":{"mkdAddForAdminBar":0,"mkdElementAppearAmount":-150,"mkdFinishedMessage":"No more posts","mkdMessage":"Loading new posts...","mkdTopBarHeight":0,"mkdStickyHeaderHeight":60,"mkdStickyHeaderTransparencyHeight":60,"mkdLogoAreaHeight":0,"mkdMenuAreaHeight":92,"mkdMobileHeaderHeight":100}};
+var mkdPerPageVars = {"vars":{"mkdStickyScrollAmount":0,"mkdStickyScrollAmountFullScreen":false,"mkdHeaderTransparencyHeight":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/modules.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/blog.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://tao.network/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mkdLike = {"ajaxurl":"http:\/\/tao.network\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://tao.network/wp-content/themes/hue/assets/js/like.js?ver=1.0'></script>
+<script type='text/javascript' src='http://tao.network/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+</body>
+</html>

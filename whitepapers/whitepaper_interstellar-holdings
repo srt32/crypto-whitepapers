@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<!--[if IE]>        <html lang="en-US" class="ie"><![endif]-->
+<!--[if !IE]><!-->  <html lang="en-US" class="not-ie">  <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.InterstellarCoin.com/xmlrpc.php">
+
+
+<link rel="shortcut icon" href="https://www.InterstellarCoin.com/wp-content/uploads/2017/11/hold-logo-1-1-e1510960372412.png" type="image/x-icon"/>
+
+<!-- For iPhone -->
+<link rel="apple-touch-icon-precomposed" href="https://www.InterstellarCoin.com/wp-content/themes/tjoy/images/apple-touch-icon.png">
+
+<!-- For iPhone 4 Retina display -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.InterstellarCoin.com/wp-content/themes/tjoy/images/apple-touch-icon-114x114.png">
+
+<!-- For iPad -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.InterstellarCoin.com/wp-content/themes/tjoy/images/apple-touch-icon-72x72.png">
+
+<!-- For iPad Retina display -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.InterstellarCoin.com/wp-content/themes/tjoy/images/apple-touch-icon-144x144.png">
+
+<title>Whitepaper | Interstellar Holdings</title>
+                        <script>if(typeof WebFontConfig==="undefined"){WebFontConfig=new Object();}
+WebFontConfig['google']={families:['Abel:400']};(function(){var wf=document.createElement('script');wf.src='https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';wf.type='text/javascript';wf.async='true';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wf,s);})();</script>
+                        
+<!-- All in One SEO Pack 2.4.2.1 by Michael Torbert of Semper Fi Web Design[1239,1286] -->
+<link rel="canonical" href="https://www.InterstellarCoin.com/?page_id=3633"/>
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//www.InterstellarCoin.com'/>
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="Interstellar Holdings &raquo; Feed" href="https://www.InterstellarCoin.com/?feed=rss2"/>
+<link rel="alternate" type="application/rss+xml" title="Interstellar Holdings &raquo; Comments Feed" href="https://www.InterstellarCoin.com/?feed=comments-rss2"/>
+
+<!-- This site uses the Google Analytics by MonsterInsights plugin v 6.2.4 - https://www.monsterinsights.com/ -->
+<!-- Normally you will find the Google Analytics tracking code here, but the webmaster disabled your user group. -->
+<!-- / Google Analytics by MonsterInsights -->
+
+		<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.InterstellarCoin.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.InterstellarCoin.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='animate-css' href='https://www.InterstellarCoin.com/wp-content/plugins/df-so-widgets-tjoy/inc/../css/animate.min.css?ver=1.0.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://www.InterstellarCoin.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5' type='text/css' media='all'/>
+<style id='rs-plugin-settings-inline-css' type='text/css'>#rs-demo-id{}</style>
+<link rel='stylesheet' id='siteorigin-panels-front-css' href='https://www.InterstellarCoin.com/wp-content/plugins/siteorigin-panels/css/front-flex.css?ver=2.5.14' type='text/css' media='all'/>
+<link rel='stylesheet' id='df-heading-widget-default-607104f7d6c7-css' href='https://www.InterstellarCoin.com/wp-content/uploads/siteorigin-widgets/df-heading-widget-default-607104f7d6c7.css?ver=4.8.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='df-button-widget-default-4b1ff0460fd2-css' href='https://www.InterstellarCoin.com/wp-content/uploads/siteorigin-widgets/df-button-widget-default-4b1ff0460fd2.css?ver=4.8.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='tjoy-style-css' href='https://www.InterstellarCoin.com/wp-content/themes/tjoy/style.css?ver=4.8.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='bootstrap-css' href='https://www.InterstellarCoin.com/wp-content/themes/tjoy/css/bootstrap.min.css?ver=4.8.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='fontawesome-css' href='https://www.InterstellarCoin.com/wp-content/themes/tjoy/font-awesome/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='master-css' href='https://www.InterstellarCoin.com/wp-content/uploads/wp-less/tjoy/less/master-fe289a30aa.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='base-css' href='https://www.InterstellarCoin.com/wp-content/themes/tjoy/css/base.css?ver=4.8.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='magnific-css' href='https://www.InterstellarCoin.com/wp-content/themes/tjoy/css/magnific-popup.css?ver=4.8.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='circliful-css' href='https://www.InterstellarCoin.com/wp-content/themes/tjoy/css/jquery.circliful.css?ver=4.8.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='redux-google-fonts-tjoy_data-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%7CQuantico%3A700%2C300%2C400%2C700italic&#038;ver=1511019964' type='text/css' media='all'/>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.1.5'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5'></script>
+<link rel='https://api.w.org/' href='https://www.InterstellarCoin.com/index.php?rest_route=/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.InterstellarCoin.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.InterstellarCoin.com/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 4.8.5"/>
+<link rel='shortlink' href='https://www.InterstellarCoin.com/?p=3633'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.InterstellarCoin.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.InterstellarCoin.com%2F%3Fpage_id%3D3633"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.InterstellarCoin.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.InterstellarCoin.com%2F%3Fpage_id%3D3633&#038;format=xml"/>
+            <style type="text/css"></style><style type="text/css">.widget__footer .widget-title:after{background:#f9fcfd}.gallery-item .gallery-caption h3:before{border-top:1px solid #f9fcfd}</style>		<style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."/>
+				<style type="text/css" media="all" id="siteorigin-panels-layouts-head">#pgc-3633-0-0,#pgc-3633-1-0{width:100%;width:calc(100% - ( 0 * 30px ) ) }#pg-3633-0,#pl-3633 .so-panel{margin-bottom:30px}#pl-3633 .so-panel:last-child{margin-bottom:0px}#pg-3633-1.panel-no-style,#pg-3633-1.panel-has-style>.panel-row-style{-webkit-align-items:flex-start;align-items:flex-start}@media (max-width:780px){#pg-3633-0.panel-no-style,#pg-3633-0.panel-has-style>.panel-row-style,#pg-3633-1.panel-no-style,#pg-3633-1.panel-has-style>.panel-row-style{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}#pg-3633-0 .panel-grid-cell,#pg-3633-1 .panel-grid-cell{margin-right:0}#pg-3633-0 .panel-grid-cell,#pg-3633-1 .panel-grid-cell{width:100%}#pl-3633 .panel-grid-cell{padding:0}#pl-3633 .panel-grid .panel-grid-cell-empty{display:none}#pl-3633 .panel-grid .panel-grid-cell-mobile-last{margin-bottom:0px}}</style><style type="text/css" title="dynamic-css" class="options-output">.site-title{color:#000}.site-header{border-top:3px solid #1e73be;border-bottom:3px solid #1e73be;border-left:3px solid #1e73be;border-right:3px solid #1e73be}.site-header{border-top:3px solid #1e73be;border-bottom:3px solid #1e73be;border-left:3px solid #1e73be;border-right:3px solid #1e73be}.site-header{margin-top:1px;margin-right:2px;margin-bottom:3px;margin-left:4px}h2.site-description,.entry-title{font-family:Abel;line-height:40px;font-weight:normal;font-style:700;color:#333;font-size:33px;opacity:1;visibility:visible;-webkit-transition:opacity .24s ease-in-out;-moz-transition:opacity .24s ease-in-out;transition:opacity .24s ease-in-out}.wf-loading h2.site-description, .entry-title,{opacity:0}.ie.wf-loading h2.site-description, .entry-title,{visibility:hidden}</style><style type="text/css" title="dynamic-css" class="options-output">.large-header{background-color:#16263d;background-repeat:repeat;background-size:cover;background-attachment:scroll;background-position:center center}body{font-family:"Open Sans";text-align:left;line-height:24px;font-weight:400;font-style:normal;color:#9eb4cc;font-size:14px}.flexnav li a{font-family:Quantico;font-weight:700;font-style:normal;font-size:13px}h1{font-family:Quantico;font-weight:700;font-style:normal;color:#f9fcfd;font-size:30px}h2{font-family:Quantico;font-weight:700;font-style:normal;color:#f9fcfd;font-size:24px}h3{font-family:Quantico;font-weight:700;font-style:normal;color:#f9fcfd;font-size:18px}h4{font-family:Quantico;font-weight:700;font-style:normal;color:#f9fcfd;font-size:16px}h5{font-family:Quantico;font-weight:700;font-style:normal;color:#f9fcfd;font-size:14px}h6{font-family:Quantico;font-weight:700;font-style:normal;color:#f9fcfd;font-size:12px}.title-bordered h2{font-family:Quantico;font-weight:700;font-style:normal;color:#f9fcfd;font-size:32px}.title-decorated h2{font-family:Quantico;line-height:32px;font-weight:700;font-style:normal;color:#f9fcfd;font-size:32px}.page-header .breadcrumb li,.page-header .breadcrumb li a{font-family:"Open Sans";font-weight:400;font-style:normal;font-size:12px}.page-header.page-header__standard h1{font-family:Quantico;font-weight:300;font-style:normal;color:#f9fcfd;font-size:22px}.gallery-item .gallery-caption h3{font-family:Quantico;line-height:24px;font-weight:400;font-style:normal;color:#f9fcfd;font-size:20px}.post-heading h1,.post-heading h2,.post-heading h2 a{font-family:Quantico;line-height:22px;font-weight:300;font-style:normal;color:#f9fcfd;font-size:18px}.widget__sidebar .widget-title h3{font-family:Quantico;font-weight:300;font-style:normal;color:#f9fcfd;font-size:18px}.widget__footer .widget-title h4{font-family:Quantico;text-align:left;font-weight:300;font-style:normal;color:#f9fcfd;font-size:20px}.large-header .main-title{font-family:Quantico;font-weight:700;font-style:italic;color:#f9fcfd;font-size:92px}body{background-color:#16263d;background-repeat:repeat;background-size:inherit;background-attachment:scroll;background-position:center top;background-image:url(https://www.InterstellarCoin.com/wp-content/themes/tjoy/images/pattern.gif)}.navbar-default{background:rgba(255,255,255,.05)}.affix.navbar-default{background:rgba(249,252,253,.95)}.page-header-inner{background-color:#16263d;background-repeat:no-repeat;background-size:cover;background-attachment:scroll;background-position:center top;background-image:url(https://www.InterstellarCoin.com/wp-content/themes/tjoy/images/page-header.jpg)}.footer-wrap{background-color:#16263d;background-repeat:repeat;background-size:inherit;background-attachment:scroll;background-position:center top;background-image:url(https://www.InterstellarCoin.com/wp-content/themes/tjoy/images/pattern.gif)}</style>
+</head>
+
+<body class="page-template page-template-page-fullwidth page-template-page-fullwidth-php page page-id-3633 siteorigin-panels siteorigin-panels-before-js">
+	<div class="top-wrapper">
+
+		<!-- Header
+		================================================== -->
+		<div class="navbar-wrapper">
+			<header class="navbar navbar-default navbar-top" id="navbar">
+				<div class="container">
+
+					<div class="navbar-header">
+
+						
+							<!-- Logo Standard -->
+							<a href="https://www.InterstellarCoin.com/" class="logo-standard" rel="home"><img src="https://www.InterstellarCoin.com/wp-content/uploads/2017/11/hold-logo-1-1-e1510950967862.png" class="logo-standard__light" alt="Interstellar Holdings" title="Cryptoinvesting on Autopilot"/>
+							<img src="https://www.InterstellarCoin.com/wp-content/uploads/2017/11/hold-logo-1-1-e1510950967862.png" class="logo-standard__dark" alt="Interstellar Holdings" title="Cryptoinvesting on Autopilot"/>
+								
+							</a>
+						
+							
+
+											</div><!-- .navbar-header -->
+					<div id="logoText">
+						<a href="https://www.InterstellarCoin.com/" rel="home">Interstellar Holdings</a>
+					</div>
+					<div class="navbar-collapse-holder">
+
+						
+						<div class="clearfix">
+							<button type="button" class="navbar-toggle">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+
+							<div class="menu-primary-menu-container"><ul data-breakpoint="992" id="menu-primary-menu" class="flexnav"><li id="menu-item-3688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3688"><a href="https://www.InterstellarCoin.com/?page_id=3654" data-ps2id-api="true">About Us</a></li>
+<li id="menu-item-3689" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3633 current_page_item menu-item-3689 active"><a href="https://www.InterstellarCoin.com/?page_id=3633" data-ps2id-api="true">Whitepaper</a></li>
+<li id="menu-item-3690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3690"><a href="https://www.InterstellarCoin.com/?page_id=3622" data-ps2id-api="true">Roadmap</a></li>
+<li id="menu-item-3692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3692"><a href="https://www.InterstellarCoin.com/?page_id=3563" data-ps2id-api="true">Wallets</a></li>
+<li id="menu-item-3699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3699"><a target="_blank" href="http://explorer.interstellarcoin.com/" data-ps2id-api="true">Explorer</a></li>
+<li id="menu-item-3709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3709"><a target="_blank" href="https://discord.gg/aMbYC3y" data-ps2id-api="true">Discord</a></li>
+<li id="menu-item-3750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3750"><a href="https://www.InterstellarCoin.com/?page_id=3748" data-ps2id-api="true">Exchanges</a></li>
+</ul></div>
+
+
+						</div>
+					</div><!-- .navbar-collapse-holder -->
+				</div><!-- .container -->
+			</header><!-- #navbar -->
+		</div>
+
+		<div class="page-header page-header__standard">
+	<div class="page-header-inner">
+		<div class="container">
+			<div class="page-title-holder clearfix">
+
+				
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+
+						
+															<h1>Whitepaper</h1>
+							
+											</div>
+					<div class="col-md-6 col-sm-6">
+
+						<ul class="breadcrumb"><li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://www.InterstellarCoin.com">Home</a></li><li class="current">Whitepaper</li></ul>					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+			
+		
+	</div><!-- .top-wrapper -->
+
+	<!-- Content
+	================================================== -->
+	<main class="main-content" id="content">
+		<div class="container">
+
+<!-- Content -->
+<div id="post-3633" class="page post-3633 type-page status-publish hentry">
+	<div id="pl-3633" class="panel-layout"><div id="pg-3633-0" class="panel-grid panel-no-style"><div id="pgc-3633-0-0" class="panel-grid-cell"><div id="panel-3633-0-0-0" class="so-panel widget widget_df-heading-widget panel-first-child" data-index="0"><div class="so-widget-df-heading-widget so-widget-df-heading-widget-default-607104f7d6c7"><h3>Our Whitepaper</h3></div></div><div id="panel-3633-0-0-1" class="so-panel widget widget_sow-editor" data-index="1"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<p style="text-align: center;">For more information about Interstellar Holdings,<br/>
+click below to view and download our whitepaper.</p>
+</div>
+</div></div><div id="panel-3633-0-0-2" class="so-panel widget widget_df-button-widget panel-last-child" data-index="2"><div class="so-widget-df-button-widget so-widget-df-button-widget-default-4b1ff0460fd2"><div class="btn-wrapper btn-wrapper--align-center">
+
+		<a class="btn btn-normal btn-primary" class="" target="_blank" href="https://www.InterstellarCoin.com/wp-content/uploads/2017/12/Interstellar_Holdings_Whitepaper_Q4_2017_-_midres-1.pdf">
+		<span>
+			<span class="sow-icon-fontawesome" data-sow-icon="&#xf02d;"></span>
+			View Whitepaper		</span>
+	</a>
+</div>
+</div></div></div></div><div id="pg-3633-1" class="panel-grid panel-has-style"><div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-3633-1" data-stretch-type="full"><div id="pgc-3633-1-0" class="panel-grid-cell"><div id="panel-3633-1-0-0" class="so-panel widget widget_df-cta-widget panel-first-child panel-last-child" data-index="3"><div class="so-widget-df-cta-widget so-widget-df-cta-widget-default-d75171398898">
+
+<div class="parallax-bg cta cta__default cta__hor cta__fullwidth" style="background-image:url(https://www.InterstellarCoin.com/wp-content/uploads/2014/08/footer-img1.jpg)" data-stellar-background-ratio="0.2">
+  <div class="cta-outer">
+    <div class="cta-inner">
+      <div class="cta-txt-wrap ">
+        <div class="cta-txt">We are always looking to grow our family!</div>
+              </div>
+      <div class="cta-btn ">
+        <div class="so-widget-df-button-widget so-widget-df-button-widget-default-4b1ff0460fd2"><div class="btn-wrapper btn-wrapper--align-center">
+
+		<a class="btn btn-sm btn-warning" class="" target="_blank" href="https://discord.gg/aMbYC3y">
+		<span>
+			
+			Join our Discord Community!		</span>
+	</a>
+</div>
+</div>      </div>
+    </div>
+  </div>
+</div>
+</div></div></div></div></div></div>							
+</div><!--// Page -->
+	<!-- /Content -->
+
+
+		</div>
+	</main><!-- #content -->
+
+	<!-- Footer
+	================================================== -->
+	<div class="footer-wrap">
+
+		<!-- Footer -->
+								<footer class="footer" role="contentinfo">
+
+			<div class="container">
+
+				<!-- Widgets -->
+				<section class="footer-widgets">
+					<div class="row">
+						<div class="col-xs-12 col-sm-4 col-md-4">
+													</div>
+						<div class="col-xs-12 col-sm-4 col-md-4">
+													</div>
+						<div class="col-xs-12 col-sm-4 col-md-4">
+													</div>
+					</div>
+				</section>
+				<!-- Widgets / End-->
+
+			</div>
+		</footer>
+		<!-- Footer / End -->
+		
+		
+	</div>
+
+	
+	
+
+	<script>jQuery(document).ready(function($){'use strict';if('function'===typeof WOW){new WOW().init();}});</script>
+	<link rel='stylesheet' id='siteorigin-widget-icon-font-fontawesome-css' href='https://www.InterstellarCoin.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style.css?ver=4.8.5' type='text/css' media='all'/>
+<script type='text/javascript'>//<![CDATA[
+var wpcf7={"apiSettings":{"root":"https:\/\/www.InterstellarCoin.com\/index.php?rest_route=\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+//]]></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/plugins/df-so-widgets-tjoy/inc/../js/wow.min.js?ver=1.0.1'></script>
+<script type='text/javascript'>//<![CDATA[
+var mPS2id_params={"instances":{"mPS2id_instance_0":{"selector":"a[rel='m_PageScroll2id']","autoSelectorMenuLinks":"true","scrollSpeed":1000,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","layout":"vertical","offset":0,"highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","normalizeAnchorPointTargets":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
+//]]></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.6.2'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/bootstrap.min.js?ver=3.1'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.hoverIntent.minified.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.flexnav.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/isotope.pkgd.min.js?ver=2.0.1'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.imagesloaded.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.flickrfeed.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/owl.carousel.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.magnific-popup.min.js?ver=0.9.9'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.appear.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.countTo.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.stellar.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/jquery.circliful.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/themes/tjoy/js/sticky-header.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+<script type='text/javascript'>//<![CDATA[
+var panelsStyles={"fullContainer":"body"};
+//]]></script>
+<script type='text/javascript' src='https://www.InterstellarCoin.com/wp-content/plugins/siteorigin-panels/js/styling-2514.min.js?ver=2.5.14'></script>
+<script type="text/javascript">document.body.className=document.body.className.replace("siteorigin-panels-before-js","");</script>  <div id="bitnami-banner" data-banner-id="b1d85">  <style>#bitnami-banner{z-index:100000;height:80px;padding:0px;width:120px;background:transparent;position:fixed;right:0px;bottom:0px;border:0px solid #ededed}#bitnami-banner .bitnami-corner-image-div{position:fixed;right:0px;bottom:0px;border:0px;z-index:100001;height:110px}#bitnami-banner .bitnami-corner-image-div .bitnami-corner-image{position:fixed;right:0px;bottom:0px;border:0px;z-index:100001;height:110px}#bitnami-close-banner-button{height:12px;width:12px;z-index:10000000000;position:fixed;right:5px;bottom:65px;display:none;cursor:pointer}</style>  <img id="bitnami-close-banner-button" src="/bitnami/images/close.png"/>  <div class="bitnami-corner-image-div">     <a href="/bitnami/index.html" target="_blank">       <img class="bitnami-corner-image" alt="Bitnami" src="/bitnami/images/corner-logo.png"/>     </a>  </div>  <script type="text/javascript" src="/bitnami/banner.js"></script> </div>   </body>
+</html>

@@ -1,0 +1,2028 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<meta name="theme-color" content="#7155aa">
+
+		<link rel="shortcut icon" href="https://edinarcoin.com/wp-content/themes/twentyfifteen/favicon.ico" />
+
+		<!-- Fonts -->
+		<link href="https://edinarcoin.com/wp-content/themes/twentyfifteen/css/font-awesome.min.css" rel="stylesheet">
+		<!-- Bootstrap core CSS -->
+
+		<!-- Custom styles for this template -->
+		<link href="https://edinarcoin.com/wp-content/themes/twentyfifteen/css/chosen.css" rel="stylesheet" />
+		<link href="https://edinarcoin.com/wp-content/themes/twentyfifteen/css/icomoon.css" rel="stylesheet">
+		<link href="https://edinarcoin.com/wp-content/themes/twentyfifteen/css/style.css" rel="stylesheet">
+		<link href="https://edinarcoin.com/wp-content/themes/twentyfifteen/css/owl.carousel.css" rel="stylesheet"  />
+
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Whitepaper EN &#8211; E-DINAR</title>
+<link rel='dns-prefetch' href='//edinarcoin.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="E-DINAR &raquo; Feed" href="https://edinarcoin.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="E-DINAR &raquo; Comments Feed" href="https://edinarcoin.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/edinarcoin.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://edinarcoin.com/wp-includes/css/dashicons.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://edinarcoin.com/wp-includes/js/thickbox/thickbox.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-style-css'  href='https://edinarcoin.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='es-widget-css-css'  href='https://edinarcoin.com/wp-content/plugins/email-subscribers/widget/es-widget.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://edinarcoin.com/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='https://edinarcoin.com/wp-content/themes/twentyfifteen/style.css?ver=4.6.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='https://edinarcoin.com/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='https://edinarcoin.com/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://edinarcoin.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-content/plugins/simple-popup-plugin/scripts/jquery.cookie.js?ver=4.6.1'></script>
+<link rel='https://api.w.org/' href='https://edinarcoin.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://edinarcoin.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://edinarcoin.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel="canonical" href="https://edinarcoin.com/whitepaper-en/" />
+<link rel='shortlink' href='https://edinarcoin.com/?p=8483' />
+<link rel="alternate" type="application/json+oembed" href="https://edinarcoin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fedinarcoin.com%2Fwhitepaper-en%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://edinarcoin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fedinarcoin.com%2Fwhitepaper-en%2F&#038;format=xml" />
+	<!--Simple Popup Plugin v4.0 / RH Mods-->
+	<script language="javascript" type="text/javascript">
+	<!--
+	var swin=null;
+	function popitup(mypage,w,h,pos,myname,infocus){
+	    if (w!=parseInt(w)||w<=0) w=$width;
+	    if (h!=parseInt(h)||h<=0) h=$height;
+	    if (myname==null){myname="swin"};
+	    var myleft = 0;
+	    var mytop = 0;
+	    if (myleft==0 && mytop==0 && pos!="random"){pos="center"};
+	    if (pos=="random"){myleft=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;mytop=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+	    if (pos=="center"){myleft=(screen.width)?(screen.width-w)/2:100;mytop=(screen.height)?(screen.height-h)/2:100;}
+	    settings="width=" + w + ",height=" + h + ",top=" + mytop + ",left=" + myleft + ",scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no";swin=window.open(mypage,myname,settings);
+	    if (infocus==null || infocus=="front"){swin.focus()};
+	    return false;
+	}
+	// -->
+	</script>
+	<!--/Simple Popup Plugin-->
+	<link rel="alternate" href="https://edinarcoin.com/whitepaper-en/" hreflang="en" />
+<link rel="alternate" href="https://edinarcoin.com/ru/whitepaper-ru/" hreflang="ru" />
+<link rel="alternate" href="https://edinarcoin.com/ch/whitepaper-ch/" hreflang="zh" />
+<link rel="alternate" href="https://edinarcoin.com/th/whitepaper-th/" hreflang="th" />
+<link rel="alternate" href="https://edinarcoin.com/hi/whitepaper-hi/" hreflang="hi" />
+<link rel="alternate" href="https://edinarcoin.com/ar/whitepaper-ar/" hreflang="ar" />
+<link rel="alternate" href="https://edinarcoin.com/id/whitepaper-id/" hreflang="id" />
+<link rel="alternate" href="https://edinarcoin.com/tr/whitepaper-tr/" hreflang="tr" />
+<link rel="alternate" href="https://edinarcoin.com/ja/whitepaper-ja/" hreflang="ja" />
+<link rel="alternate" href="https://edinarcoin.com/ko/whitepaper-ko/" hreflang="ko" />
+<link rel="alternate" href="https://edinarcoin.com/bg/whitepaper-bg/" hreflang="bg" />
+<link rel="alternate" href="https://edinarcoin.com/hu/whitepaper-hu/" hreflang="hu" />
+<link rel="alternate" href="https://edinarcoin.com/pt/whitepaper-pt/" hreflang="pt" />
+<link rel="alternate" href="https://edinarcoin.com/kk/whitepaper-kk/" hreflang="kk" />
+<link rel="alternate" href="https://edinarcoin.com/it/whitepaper-it/" hreflang="it" />
+<link rel="alternate" href="https://edinarcoin.com/de/whitepaper-de/" hreflang="de" />
+<link rel="alternate" href="https://edinarcoin.com/el/whitepaper-el/" hreflang="el" />
+<link rel="alternate" href="https://edinarcoin.com/es/whitepaper-es/" hreflang="es" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="syntaxhighlighteranchor"></style>
+
+		
+        <script>
+            var hmt = hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?0e277fcf74bc9d47c6969eff34bf63e6";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?5GI9n7D3VJz4JyuHKE4zhY0NRwxPCw7F";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zendesk Chat Script-->
+
+	</head>
+
+	<body class="page page-id-8483 page-template page-template-template page-template-page page-template-templatepage-php">
+	<!-- header -->
+            <header id='header' class="header header-default navbar-fixed-top brand-fixed brand-center">
+            <input type="hidden" value="https://edinarcoin.com/whitepaper-en/" class="current_url" />
+            <input type="hidden" value="" class="current_lang_slug" />
+            <div class="container container-sm">
+                <nav class="nav-row">
+                    <a href="/" class="navbar-brand">
+                        <img src="https://edinarcoin.com/wp-content/themes/twentyfifteen/img/logo.png" alt="">
+                    </a>
+                    <i class="fa fa-bars nav-btn"></i>
+                    <div class="collapse-mobile-nav">
+                        <ul class="list-inline pull-left text-uppercase">
+
+                                                        <li class="">
+                                <a class="list" href="https://edinarcoin.com/">wallets</a>
+                            </li>
+
+                                                        <li class="">
+                                <a class="list" href="https://edinarcoin.com/buy-edinarcoin-en/">Buy/Sell</a>
+                            </li>
+
+                                                        <li class="">
+                                <a class="list" href="https://edinarcoin.com/advantages-en/">advantages</a>
+                            </li>
+                            <li>
+                                <a class="list" href="https://wallet.edinarcoin.com/#/explorer/blocks" target="_blank">Blockchain</a>
+                            </li>
+                        </ul>
+                        <ul class="list-inline pull-right text-uppercase">
+                                                                                            <a class='list' href="https://edinarcoin.com/exchange-offices-en/">
+                                    <li>
+                                        <span class='list list-division'>
+                                                                                            edr $1
+                                                                                        <!--<i class="fa fa-long-arrow-up text-success secondary"></i>-->
+                                        </span>
+                                    </li>
+                                </a>
+                            
+
+                                                        <li class="">
+                                <a class='list' href="https://edinarcoin.com/news-en/">news</a>
+                            </li>
+
+                                                        <li class="">
+                                <a class='list' href="https://edinarcoin.com/mass-media-en/">mass media</a>
+                            </li>
+                            <li>
+                                <div class="dropdown drop-left">
+    <a class='list dropdown-toggle' href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        en <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="dLabel">
+                                                        <li>
+                    <a href="https://edinarcoin.com/ru/whitepaper-ru/">ru</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/ch/whitepaper-ch/">ch</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/th/whitepaper-th/">th</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/hi/whitepaper-hi/">hi</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/ar/whitepaper-ar/">ar</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/id/whitepaper-id/">id</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/tr/whitepaper-tr/">tr</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/ja/whitepaper-ja/">ja</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/ko/whitepaper-ko/">ko</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/bg/whitepaper-bg/">bg</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/hu/whitepaper-hu/">hu</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/pt/whitepaper-pt/">pt</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/kk/whitepaper-kk/">kk</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/it/whitepaper-it/">it</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/de/whitepaper-de/">de</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/el/whitepaper-el/">el</a>
+                </li>
+                                                <li>
+                    <a href="https://edinarcoin.com/es/whitepaper-es/">es</a>
+                </li>
+                        </ul>
+</div>                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </header>
+
+        <div class="orderCall__panel">
+    <a href="javascript:;" class="orderCall__btn orderCall__btn-js">
+        <span class="title"><span> </span>Callback</span>
+        <span class="icon-call"></span>
+    </a>
+    <div class="orderCall__box">
+        <a href="javascript:;" class="orderCall__cancel"><i class="glyphicon glyphicon-remove"></i></a>
+        <form class="orderCall__form">
+            <div class="form-group">
+                <div class="form-title">Your name</div>
+                <input class="form-control form-control-sm form-control-flat inverse cp_name" type="text">
+            </div>
+            <div class="form-group">
+                <div class="form-title">Your phone number</div>
+                <input class="form-control form-control-sm form-control-flat inverse cp_phone" type="text">
+            </div>
+            <div class="form-group">
+                <div class="form-title">Country</div>
+                <input class="form-control form-control-sm form-control-flat inverse cp_country" type="text">
+            </div>
+            <div class="form-group">
+                <div class="form-title">Subject</div>
+                <input class="form-control form-control-sm form-control-flat inverse cp_theme" type="text">
+            </div>
+            <div class="form-group">
+                <div class="form-title">Message (not required)</div>
+                <textarea class="cp_message"></textarea>
+            </div>
+            <div class="">
+                <input class="btn btn-primary btn-sm mt-lg landing send_order_callback" type="button" value="Send">
+                <span class="cp_success" style="display: none;">Your message has been successfully sent!</span>
+            </div>
+        </form>
+    </div>
+</div>
+
+    
+
+<section class="content-section section-default">
+    <div class="container container-sm">
+        <div class="row">
+            <div class="content-wrp content-list-wrp landing">
+                <div class="wp-section__intro">
+                    <div class="col-sm-7">
+                        <label class="h0 title inverse text-uppercase small-indent">
+                            White Paper
+                        </label>
+                        <span class="desc">
+                            A new generation sustainable DPOS cryptocurrency
+                        </span>
+                    </div>
+                </div>
+            </div>  <!-- content-wrp content-list-wrp -->
+        </div><!-- row row-list -->
+    </div>
+</section>
+
+<section class="wp-section__nav">
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6 col-md-3">
+                <div class="head">
+                    <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_company.png" alt="" class="head__icon"/>
+                    <span class="title">THE COMPANY</span>
+                </div>
+                <div class="body">
+                    <div class="wp-nav__item">
+                        <a href="#companyOverview" class="wp-nav__link btn_scroll">Overview</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#companyStory" class="wp-nav__link btn_scroll">Story</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href=#companyStructure class="wp-nav__link btn_scroll">Company structure</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#representativeOffices" class="wp-nav__link btn_scroll">Representative offices</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="head">
+                    <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_cryptocurrency.png" alt="" class="head__icon"/>
+                    <span class="title">THE CRYPTOCURRENCY</span>
+                </div>
+                <div class="body">
+                    <div class="wp-nav__item">
+                        <a href="#currencyOverview" class="wp-nav__link btn_scroll">Overview</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#currencyStrengths" class="wp-nav__link btn_scroll">Strengths and key features</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#currencyPlatforms" class="wp-nav__link btn_scroll">Exchange platforms</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#currencyFigures" class="wp-nav__link btn_scroll">Figures</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="head">
+                    <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_tech.png" alt="" class="head__icon"/>
+                    <span class="title">THE TECHNOLOGY AND BUSINESS SYSTEM</span>
+                </div>
+                <div class="body">
+                    <div class="wp-nav__item">
+                        <a href="#techProof" class="wp-nav__link btn_scroll">Delegated proof of stake</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techDecentralization" class="wp-nav__link btn_scroll">Decentralization</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techTransparency" class="wp-nav__link btn_scroll">Transparency</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techPrivacy" class="wp-nav__link btn_scroll">Privacy</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techSecurity" class="wp-nav__link btn_scroll">Security</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techVoting" class="wp-nav__link btn_scroll">Delegates and voting
+                            system</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techDistribution" class="wp-nav__link btn_scroll">Coin distribution</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techBurning" class="wp-nav__link btn_scroll">Coin burning</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techReferralSystem" class="wp-nav__link btn_scroll">Multi-level referral system</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#techSustainability" class="wp-nav__link btn_scroll">Sustainability and
+                            eco-friendliness</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="head">
+                    <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_advantage.png" alt="" class="head__icon"/>
+                    <span class="title">THE COMPETITIVE ADVANTAGE</span>
+                </div>
+                <div class="body">
+                    <div class="wp-nav__item">
+                        <a href="#advantageCurrencies" class="wp-nav__link btn_scroll">Current situation: Fiat
+                            currencies and banking
+                            system</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#advantageCryptocurrencies" class="wp-nav__link btn_scroll">Current situation:
+                            Cryptocurrencies</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#advantage" class="wp-nav__link btn_scroll">Advantages over fiat
+                            money and
+                            cryptocurrencies</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#advantageAnalysis" class="wp-nav__link btn_scroll">Competition analysis</a>
+                    </div>
+                    <div class="wp-nav__item">
+                        <a href="#advantageRisks" class="wp-nav__link btn_scroll">Risks and opportunities</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12">
+                <div class="head head__auto">
+                    <span class="title">FUTURE PLANS</span>
+                </div>
+                <div class="wp-nav__item text-center">
+                    <a href="#planscOverage" class="wp-nav__link btn_scroll">Representative offices and coverage</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="wp-section__company wp-section__common">
+    <div class="head">
+        <div class="container container-sm">
+            <div class="row">
+                <div class="col-sm-6 col-sm-offset-6">
+                    <div class="head__descWrap">
+                        <label class="h1 title inverse text-uppercase small-indent">
+                            THE COMPANY
+                        </label>
+                        <p>
+                            Monthly E-Dinar Coin processes over 50,000 purchase and sale transactions by over 300,000 users who decided to give their preference to a more efficient, transparent, and eco-friendly alternative to obsolete and corrupt POW cryptocurrencies as well as fiat money.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="companyOverview" class="wp-desc">
+                    <span class="title">Overview</span>
+                    <p>
+                        <span class="quote right">&#8230;over 300 000 users</span>
+                        E-Dinar Coin was founded in August 2016 and managed to become one of the world’s most rapidly growing DPOS cryptocurrencies with the pool of over 300,000 users and open representative offices on two continents.
+                    </p>
+                    <p>
+                        Our main aim is to provide the world with a more just, easy-to-use, and greener financial tool than common cryptocurrencies based on the POW algorithm and a more democratic, stable, and safer instrument than fiat money.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="companyStory" class="wp-desc">
+                    <span class="title">Story</span>
+                    <p>
+                        <span class="quote left">2015</span>
+                        The story of E-Dinar Coin started back in November 2015 when a group of Malaysian developers who owned the same-named online P2P cryptocurrency exchange platform started toying with an idea of taking the best of Blockchain technology and incorporating it with a variety of newer features which have never before used on the cryptocurrency market.
+                    </p>
+                    <p>
+                        The goal was to transform it into a decentralized financial device that could be used by any person irrespective of their technical proficiency and would be quick, cheap-to-use, inclusive, secure, and transparent as well as offer higher ROI than both conventional banks and other cryptocurrencies without the possibility of internal corruption and monopolizing, which lead to unfair distribution of funds, high commissions and long transaction approval times, and red tape.
+                    </p>
+                    <p>
+                        <span class="quote left">2016</span>
+                        Later in 2016 it was decided to create a single-purpose E-Dinar Coin blockchain based on a redesigned infrastructure of BitShares 2.0 system for enhanced security of the user data, higher transparency, and maximizing dividends of the users via DPOS. As soon as the recoding was finished, an initial emission of 2,500,000,000 EDR coins was carried out.
+                    </p>
+                    <p>
+                        The company and product’s name was chosen for a reason and has a sacral meaning to it. Denarius was one of the most widely used coins on the territories of the Roman Republic and the Roman Empire, giving birth to coins like pennies, pfennigs, deniers, and so on.
+                    </p>
+                    <p>
+                        Apart from this, word denarius is connected to Spanish dinero, Portuguese dinheiro, and Italian denaro, which are words that all mean money.
+                    </p>
+                    <p>
+                        Currently dinar, also called denar, is the official currency of an array of countries located in the Middle East, whilst linguistically it became associated with prosperity, unity, and value to many people all around the world.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <span class="title-small">Active Users and Monthly Transactions</span>
+                    <p>
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/company_graph.png" alt=""/>
+                        <span class="quote right xs-static">
+                            <span class="row">
+                               <span class="square blue"></span>
+                                <span class="quote-desc">Active users</span>
+                            </span>
+                            <span class="row">
+                                <span class="square red"></span>
+                                <span class="quote-desc">Monthly transactions</span>
+                            </span>
+                        </span>
+                    </p>
+                    <p>
+                        As of November 2016, just four months after the launch of the E-Dinar Coin blockchain, the number of active participants reached 300,000 whilst the amount of monthly transactions capped at 500,000.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="companyStructure" class="wp-desc">
+                    <span class="title">Company structure</span>
+                    <p>
+                        E-Dinar Coin was registered in London, the UK, as Blockchain E-Dinar Cryptocurrency Ltd. on June 28, 2016.
+                    </p>
+                    <p>
+                        <a href="">Blockchain E-Dinar Cryptocurrency Ltd. (company registration number 10253897)</a>
+                    </p>
+                    <p>
+                        Legal and physical address: 71 Queen Victoria St, London, United Kingdom, EC4V 4AY
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="representativeOffices" class="wp-desc">
+                    <span class="title">Representative offices</span>
+                    <p>
+                        Apart from our headquarters located in London, the United Kingdom, E-Dinar Coin also has representative offices in Malang, Indonesia, and Maharashtra, India.
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <span class="title">&nbsp;</span>
+                    <p>
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/company_map.png" alt=""/>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="wp-section__currency wp-section__common">
+    <div class="head">
+        <div class="container container-sm">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <div class="head__descWrap">
+                        <label class="h1 title inverse text-uppercase small-indent">
+                            THE CRYPTOCURRENCY
+                        </label>
+                        <p>
+                            E-DinarCoin fuses the best of what the traditional cryptocurrencies offer—decentralization, transparency, and integrity—with more secure, robust, and inclusive features of DPOS system for a more just and simpler distribution of coins with the currently minimum possible energy usage requirements and without harming the environment.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="currencyOverview" class="wp-desc">
+                    <span class="title">Overview</span>
+                    <p>
+                        <span class="quote right md">&#8230;Proof-of-stake and Delegated proof-of-stake</span>
+                        The world’s first cryptocurrencies based on the POS/DPOS, or Proof-of-stake and Delegated proof-of-stake systems, like Peercoin, BlackCoin, Nxt, and Bitshares started appearing in 2012 and later on as an alternative to POW, or Proof-of-work systems, which due to their technical peculiarities tend to be corrupt, vulnerable to attacks, less democratic, and very little energy efficient when viewed progressively.
+                    </p>
+                    <p>
+                        In order to earn coins in POW cryptocurrencies users need to continuously keep their PCs online—which must be fitted with powerful and overly expensive GPUs—and hash blocks in the Blockchain network to ensure its security, hence proof-of-work. Since there are various mechanisms in POW systems that make it more and more difficult to mine blocks with time, it’s leading to higher energy consumption and appearance of miner monopolies.
+                    </p>
+                    <p>
+                        DPOS system, which E-Dinar Coin is based on, resolves this issue and reaches the consensus within the blockchain through trusted delegates who process and sign blocks which include records of the user mining activity according to the availability of coins on their account balance, hence delegated proof-of-stake.
+                    </p>
+                    <p>
+                        This way the whole platform remains coherent, providing inclusive and equitable rights to all of its members to earn, and requires literally no energy spending.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div class="wp-desc">
+                    <p>
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/currency_tab.png" alt="" class="img-indent"/>
+                    </p>
+                    <p>
+                        E-Dinar Coin takes the best of DPOS algorithm and improves on it by completely redesigning it in order to make the system understandable, easy-to-use, and resource efficient.
+                    </p>
+                    <p>
+                        The ultimate aim of E-Dinar Coin is to serve as a decentralized cryptocurrency in which every user—no matter their knowledge or experience in IT, language, and financial circumstances—will be the creator, owner, and manager of their funds that will not be exposed to tampering from the outside and will remain are non-controllable by any financial or governmental body.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="wp-section__strengths">
+        <div class="container container-sm">
+            <div id="currencyStrengths" class="wp-desc">
+                <span class="title">Strengths and key features</span>
+            </div>
+            <div id="carousel-strengths" class="carousel slide" data-ride="carousel"  data-interval="false">
+                <!-- Indicators -->
+                <div class="carousel-indicators-wrp text-center">
+                    <ul class="list-landing strengths__slider carousel-indicators">
+                        <li class="carousel-item active" data-target="#carousel-strengths" data-slide-to="0">
+                            <i class="icomoon icon-highROI"></i>
+                        </li>
+                        <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="1">
+                            <i class="icomoon icon-decentralization"></i>
+                        </li>
+                        <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="2">
+                            <i class="icomoon icon-transparency"></i>
+                        </li>
+                        <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="3">
+                            <i class="icomoon icon-anonymity"></i>
+                        </li>
+                        <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="4">
+                            <i class="icomoon icon-ecoFriendly"></i>
+                        </li>
+                        <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="5">
+                            <i class="icomoon icon-security"></i>
+                        </li>
+                        <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="6">
+                            <i class="icomoon icon-inclusive"></i>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner-wrp">
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">High ROI</span>
+                                <p>
+                                    Daily ROI of 0.65%, amounting to the monthly returns of 20%, on the total account balance
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item"  >
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Decentralization</span>
+                                <p>
+                                    Powered by a distributed and decentralized Blockchain ledger that was streamlined for enhanced efficiency
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Transparency</span>
+                                <p>
+                                    Every transaction can be quickly found and reviewed on E-Dinar Coin blockchain available to all users
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Anonymity</span>
+                                <p>
+                                    All data in the system is encrypted using an Elliptic Curve Digital Signature Algorithm (ECDSA) on the curve secp256k1.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Eco-friendly and energy efficient</span>
+                                <p>
+                                    Earning coins through delegated proof-of-stake makes usage of expensive and energy consuming equipment unnecessary, reducing the amount of carbon dioxide emissions
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Security</span>
+                                <p>
+                                    Organizing attacks on the system is financially unviable and virtually impossible due to the DPOS technical peculiarities
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Inclusive coin distribution</span>
+                                <p>
+                                    Coins are distributed among all active members of the network
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Low commissions</span>
+                                <p>
+                                    Transaction fees are fixed at 0.001 EDR thanks to the delegate system
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Democratic and non-corrupt</span>
+                                <p>
+                                    Processing of blocks by delegates gets rid of internal corruption and makes the currency more democratic for all users
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Efficiency</span>
+                                <p>
+                                    Using delegates makes the system more coherent and efficient
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Quick transaction processing</span>
+                                <p>
+                                    Delegate system ensures that processing of each transaction takes no longer than 5 seconds
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Lightweight wallet</span>
+                                <p>
+                                    Instead of being stored on your PC and wasting your HDD space, blocks are located on highly secured nodes
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">Advanced referral system</span>
+                                <p>
+                                    An elaborate 7-level referral system ensures constant flow of new users and and growth of proceeds of all network members at an exponential rate
+                                </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="strengths__slide">
+                                <span class="strengths__title">User-friendly</span>
+                                <p>
+                                    Excellent multi-language customer support services that work 24/365
+                                </p>
+                            </div>
+                        </div>
+
+                    </div><!-- carousel-inner -->
+
+                </div><!-- carousel-inner-wrp -->
+                <ul class="list-landing strengths__slider carousel-indicators top-border">
+                    <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="7">
+                        <i class="icomoon icon-lowCommissions"></i>
+                    </li>
+                    <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="8">
+                        <i class="icomoon icon-democratic"></i>
+                    </li>
+                    <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="9">
+                        <i class="icomoon icon-efficiency"></i>
+                    </li>
+                    <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="10">
+                        <i class="icomoon icon-transaction"></i>
+                    </li>
+                    <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="11">
+                        <i class="icomoon icon-lightweightWallet"></i>
+                    </li>
+                    <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="12">
+                        <i class="icomoon icon-advancedSystem"></i>
+                    </li>
+                    <li class="carousel-item" data-target="#carousel-strengths" data-slide-to="13">
+                        <i class="icomoon icon-userFriendly"></i>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="currencyPlatforms" class="wp-desc">
+                    <span class="title">Exchange platforms</span>
+                    <p>
+                        Currently E-Dinar Coin can be exchanged to a wide variety of cryptocurrencies and fiat money and vice versa at the world’s largest exchange platforms as well as at the E-Dinar Coin proprietary P2P exchange house.
+                    </p>
+                </div>
+            </div>
+            <div class="col-xs-12">
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/exrates.png" alt=""/>
+                        <span>www.exrates.me</span>
+                    </a>
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/curex.png" alt=""/>
+                        <span>www.alcurex.com</span>
+                    </a>
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/dabtc.png" alt=""/>
+                        <span>www.dabtc.com</span>
+                    </a>
+                </div>
+               
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/livecoin.png" alt=""/>
+                        <span>www.livecoin.net</span>
+                    </a>
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/btw.png" alt=""/>
+                        <span>www.btw18.com</span>
+                    </a>
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/btc.png" alt=""/>
+                        <span>www.btc-up.com</span>
+                    </a>
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/allcoin.png" alt=""/>
+                        <span>www.allcoin.com</span>
+                    </a>
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/virtualworld.png" alt=""/>
+                        <span>virtualworldland.com</span>
+                    </a>
+                </div>
+                <div class="platform__item">
+                    <a href="" class="platform__link">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/spacebtc.png" alt=""/>
+                        <span>SpaceBTC.com</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-xs-12">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="currencyFigures" class="wp-desc">
+                    <span class="title">Figures</span>
+                    <p>
+                        E-Dinar Coin was founded as a P2P exchange house in November 2015 and adopted its proprietary Blockchain platform in the middle of 2016.
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        <span class="quote static">As of November 2016
+E-DinarCoin is about&#8230;</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-md-3">
+                <div class="indicators__item">
+                    <div class="indicators__img">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/indicator_1.png" alt=""/>
+                    </div>
+                    <span class="indicators__desc">Over 300,000 active users</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="indicators__item">
+                    <div class="indicators__img">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/indicator_2.png" alt=""/>
+                    </div>
+                    <span class="indicators__desc">Over 500,000 monthly transactions</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="indicators__item">
+                    <div class="indicators__img">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/indicator_3.png" alt=""/>
+                    </div>
+                    <span class="indicators__desc">Over 250 daily registrations</span>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <div class="indicators__item">
+                    <div class="indicators__img">
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/indicator_4.png" alt=""/>
+                    </div>
+                    <span class="indicators__desc">Almost 3 mln total transactions</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div class="wp-desc">
+                    <p>
+                        <span class="quote static">Which made it possible for us to…</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        Reach daily trading volume of over $1,000,000, which places us among top 15 cryptocurrencies by daily trading volume on coinmarketcap.com website
+                    </p>
+                    <p>
+                        Open three representative offices on two continents
+                    </p>
+                    <p>
+                        Become one of the world’s most rapidly growing DPOS cryptocurrency
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+
+<section class="wp-section__tech wp-section__common">
+    <div class="head">
+        <div class="container container-sm">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <div class="head__descWrap">
+                        <label class="h1 title inverse text-uppercase small-indent">
+                            THE TECHNOLOGY AND BUSINESS SYSTEM
+                        </label>
+                        <p>
+                            Global trends in the way people treat and manage money have seen a drastic change over the past decade due to the instability in the international finance markets that waywardly react to many alarming geopolitical issues and thought-provoking fiat monetary policies around the world of the 2010s.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        <span class="quote right md">&#8230;Bitcoin POW cryptocurrency
+in 2009—which as of now is
+virtually impossible to earn
+without significant investments</span>
+                        Presumably updated financial instruments offered by banks following the 2008 financial crisis  and appearance of Bitcoin POW cryptocurrency in 2009—which as of now is virtually impossible to earn without significant investments in mining equipment and electricity spending that is huge—turned out to be ineffective.
+                    </p>
+                    <p>
+                        E-Dinar Coin blockchain technology backed by DPOS system ensures that the coins are distributed evenly and regularly between all active stakeholders of the cryptocurrency that help to reach its consensus and make it secure, avoiding the need to spend money on GPUs and harm the environment, through a democractic system of voting for delegates that anyone can participate in.
+                    </p>
+                    <p>
+                        At the same time, it’s unique business system that features a multi-level referral program—implemented to control inflation thanks to the natural growth by constant inflow of new stakeholders—makes E-Dinar Coin the most stable, profitable, and eco-friendly cryptocurrency on today’s market.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="techProof" class="wp-desc">
+                    <span class="title">Delegated proof-of-stake</span>
+                    <p>
+                        <span class="quote left md">POS based cryptocurrencies&#8230;</span>
+                        As it was mentioned above, POW systems use real energy produced by the GPUs in order to mine coins whilst users of cryptocurrencies based on POS systems must only have a certain amount of funds in their wallet in order to earn and help blockchain reach a distributed consensus.
+                    </p>
+                    <p>
+                        By saying a distributed consensus, a term which is used in computer science and cryptocurrencies, we understand a mutual consensus between all members of a network, blockchain in our case, on what is false and what is correct.
+                    </p>
+                    <p>
+                        When we talk about cryptocurrencies, the concept of false and correct has to do with validity of the transaction and coin data that a block contains. If the data in the last block is false and is not agreed upon by the network nodes to reach the distributed consensus, it may lead to various kinds of attacks that jeopardize the system integrity or result in double spending.
+                    </p>
+                    <p>
+                        And though POW based cryptocurrencies present a sensible means to reach the distributed consensus through mining, the system requires enormous costs associated with purchase of state-of-the-art mining equipment and energy spending for its well-functioning.
+                    </p>
+                    <p>
+                        POS based cryptocurrencies use a completely different as well as a much more sustainable and eco-friendly model by substituting physical mining with staking coins on a wallet and reaching the distributed consensus between all users of the system this way.
+                    </p>
+                    <p>
+                        However, though POS systems allow for getting rid of highly complex computations made by users through mining and therefore avoid wasting energy, they still remain far from the ideal due to the security vulnerabilities that may be caused by centralization of the system due to the wrongdoings of the most powerful stakeholders.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        <span class="quote right md">&#8230;transaction and block signing
+times to the minimum, precisely
+2.5 seconds in E-Dinar Coin</span>
+                        DPOS algorithm that E-Dinar Coin uses offers a crucially important element—called delegates—that prevents the system from becoming centralized and corrupt on account of misbehaving network nodes that, deliberately or not, make the system insecure.
+                    </p>
+                    <p>
+                        Delegates are common people who may be chosen via a democratic vote by the stakeholders for purposes of securing the network through validating the blocks, making sure that the information in them is correct, and signing them.
+                    </p>
+                    <p>
+                        These delegates, which are also called witnesses, are elect via the general vote for purposes of network integrity supervision, minimizing the risks of centralization through taking on the role of block signing in an unbiased way. In such manner, stakeholders still can stake and receive ROI but choose the most responsible delegates, who will ensure that the system integrity stays intact and receive a compensation in form of coins, instead of concentrating wealth in their hands and presenting security threats to the whole blockchain.
+                    </p>
+                    <p>
+                        Apart from all other things associated with the block validity, delegates must also ensure that the previous block was signed by a trusted node. This way a lack of necessity to wait for the distributed consensus from all members of the network allows for cutting the transaction and block signing times to the minimum, precisely 2.5 seconds in E-Dinar Coin.
+                    </p>
+                    <p>
+                        Since delegates are paid for their job and do not have the incentive to manipulate fees because they can be downvoted, and as opposed to physical mining in POW systems where the most powerful miners can set higher transaction fees at their sole discretion, commissions on all internal transactions in E-Dinar Coin are fixed at a low rate of 0.001 EDR.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="delimiter"></div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="techDecentralization" class="wp-desc">
+                    <span class="title">Decentralization</span>
+                    <p>
+                        <span class="quote left md">
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/decentralization.png" alt=""/>
+                        </span>
+                        Just like any other cryptocurrency, E-Dinar Coin uses a public decentralized ledger commonly known as a blockchain for storing data records as blocks in a permanent and successive way. The correct order of blocks is ensured because each block in a blockchain is timestamped and includes a link to the previous block.
+                    </p>
+                    <p>
+                        The blocks cannot be tampered or altered as well as present high byzantine fault tolerance thanks to encryption of all data and its uniform distribution across the network’s nodes. It is therefore must be considered an autonomous financial system free of tampering because of a lack of centralized elements where such data are stored.
+                    </p>
+                    <p>
+                        Full nodes in E-Dinar Coin cryptocurrency—which can be run by any user of the system—store a copy of the blockchain, but there is no official full copy of the blockchain stored in a centralized way. This makes the data in the blockchain incorruptible and easily traceable for enhanced transparency.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="techTransparency" class="wp-desc">
+                    <span class="title">Transparency</span>
+                    <p>
+                        <span class="quote right md">
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/transparency.png" alt=""/>
+                        </span>
+                        E-Dinar Coin uses a public access permissionless blockchain that allows for improved scalability of the whole system and makes it possible to trace any transaction within the ledger to its origin.
+                    </p>
+                    <p>
+                        This is a common peculiarity of all cryptocurrency blockchains, but the openness of the ledger records to the general public is not what makes it really transparent.
+                    </p>
+                    <p>
+                        As we said in the previous section, all data within a blockchain are decentralized and encrypted and therefore cannot be manipulated. If we draw a comparison between a centralized banking institution and a blockchain, the former will not only restrict you to review or track any transaction in the network to its origin, it will also present risks of being tampered or corrupted by people who have a centralized access to the system.
+                    </p>
+                    <p>
+                        Remedying these wrongdoings will by all means involve carrying out an audit of the whole system over a certain period of time to find the vulnerability by tracing the transactions to the origins via looking at them in a regressive order.
+                    </p>
+                    <p>
+                        This issue has been already dealt with in E-Dinar Coin, just like in all other cryptocurrencies, because of the intrinsically auditable nature of a blockchain without the need to spend large amounts of funds on performing a single-purpose third-party audit, the fairness and transparency of which cannot be ensured.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="techPrivacy" class="wp-desc">
+                    <span class="title">Privacy</span>
+                    <p>
+                        <span class="quote left md">
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/privacy.png" alt=""/>
+                        </span>
+                        When privacy is mentioned in association with cryptocurrencies, the chances are that anonymity is meant instead. In order to address this issue, let’s at first define what privacy really is.
+                    </p>
+                    <p>
+                        In computer science privacy is defined as ‘the relationship between collection and dissemination of data, technology, the public expectation of privacy, and the legal and political issues surrounding them.
+                    </p>
+                    <p>
+                        However, because of the transparency appropriate of all cryptocurrency blockchains, information on all transactions within it—traceable to its origin—is publicly available online. This way we should not refer to any kind of cryptocurrency, E-Dinar Coin included, as private rather than as anonymous.
+                    </p>
+                    <p>
+                        Since E-Dinar Coin funds are not directly associated with real people but wallet addresses, the whole system should be considered anonymous still never private.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="techSecurity" class="wp-desc">
+                    <span class="title">Security</span>
+                    <p>
+                        <span class="quote right md">
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/security.png" alt=""/>
+                        </span>
+                        There are numerous types of security concerns when it comes to cryptocurrencies, which is especially relevant to networks based on POW and POS systems.
+                    </p>
+                    <p>
+                        One of the most massive attack types that would theoretically cause a great damage to the integrity of the system is a 51% attack, which occurs if one single node—a mining entity in POW and a staking entity in POS—controls at least 51% of the total network’s resources.
+                    </p>
+                    <p>
+                        Thanks to the system of delegates elect by the general public, occurrence probabilities of a 51% attack are close to zero due to the large pool of E-Dinar Coin stakeholders. Performing a 51% attack in a DPOS system will mean that an evildoer will need to replace at least 51% of all elect witnesses.
+                    </p>
+                    <p>
+                        Even with the total voting turnout of 50%, this will mean that the hacker will need to manipulate around 100,000 votes, which will require enormous time and financial losses.
+                    </p>
+                    <p>
+                        The probability of a double spending attack—when the blockchain excludes a transaction which was previously included into it—due to a breakdown of the Internet connection of a delegate in E-Dinar Coin is also very low.
+                    </p>
+                    <p>
+                        Since the delegates sign blocks at the rate of 2.5 seconds each, the network vulnerability featuring a delegate failing to produce a block on time will be detected by other delegates, which will back the vulnerable delegate and sign their block for them.
+                    </p>
+                    <p>
+                        The block intervals at E-Dinar Coin are relatively short and this is why other delegates will be able to sign the delayed block before it becomes irreversible within the blockchain. Let us specify that a block and the data within it become irreversible in E-Dinar Coin blockchain when it’s been signed by at least 66% of delegates.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div class="wp-desc">
+                    <p>
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/tech_graph.png" alt="">
+                        <span class="quote left xs-static">
+                            <span class="row">
+                                <span class="quote-desc">Block interval</span>
+                               <span class="square green"></span>
+                            </span>
+                            <span class="row">
+                                <span class="quote-desc">Block irreversibility time up on 11 delegates</span>
+                                <span class="square grey"></span>
+                            </span>
+                        </span>
+                    </p>
+                    <p>
+                        This way, by currently having 11 delegates in E-Dinar Coin and the block interval of 2.5 seconds, the block will become irreversible in about 18 seconds, which is much longer than the block interval.
+                    </p>
+                    <p>
+                        Apart from it, such quick block signing intervals exclude the probability of a fork entering the system as an alternative transaction.
+                    </p>
+                    <p>
+                        Corruption and misdoings among the delegates are possible but will be quickly ruled out by the stakeholders themselves through a democratic system of downvoting the misbehaving delegate and ranking them down out of the list of active delegates.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="techVoting" class="wp-desc">
+                    <span class="title">Delegates and voting system</span>
+                    <p>
+                        <span class="quote right md">&#8230;50% of the total number
+of stakeholders think is
+right in order to make
+the system decentralized
+enough</span>
+                        The main advantage of any cryptocurrency is decentralization and lack of control of a single entity or institution over the whole system. Following the launch of Bitcoin in 2009, cryptocurrency developers tried to improve on the platform that Satoshi Nakomoto created because of appearance of mining pools, members of which tend to control the fluctuations of transaction processing fees, block production speed, and transaction approval processes therefore jeopardizing the decentralization of cryptocurrencies that use POW.
+                    </p>
+                    <p>
+                        Proof-of-stake cryptocurrencies streamlined the system by avoiding the need to waste energy in order to produce blocks and ensure the security of the blockchain, but POS platforms still present significant—although lower—risks that a node may take control of the blockchain through a 51% error.
+                    </p>
+                    <p>
+                        DPOS cryptocurrencies resolve this issue by adding delegates in order to make the cryptocurrency more decentralized, eco-friendly, democratic, and inclusive.
+                    </p>
+                    <p>
+                        A delegate is just an employee to the stakeholders because they are paid for signing blocks with transaction data. Since all delegates are chosen through approval voting by all stakeholders, they may be downvoted by the people if they present a threat to the system’s security, misbehave, or fail to produce a block.
+                    </p>
+                    <p>
+                        Stakeholders at E-Dinar Coin may choose any number of delegates depending on what at least 50% of the total number of stakeholders think is right in order to make the system decentralized enough. Stakeholders can only vote for the number of witnesses that coincides with the level of decentralization that they would like the system to have.
+                    </p>
+                    <p>
+                        By being able to choose the exact number of delegates and who would they be, stakeholders become the voice of the cryptocurrency without being able to manipulate its structure or make it insecure.
+                    </p>
+                    <p>
+                        Each delegate is paid for every single block they sign and produce and the pay rate is decided by all stakeholders through approval voting, too. If due to this or that reason a witness doesn’t produce a block, they will not be paid and may be voted out by the users.
+                    </p>
+                    <p>
+                        Since delegates tend to be the most trusted users among all stakeholders, they also have a right to propose amendments in the system associated with their pay rate, transaction fees, block interval, block size, and so on.
+                    </p>
+                    <p>
+                        Such changes may only become effective if they are approved by the majority of all other delegates as well as the stakeholders, which may either approve the change or disapprove it and even vote out the delegate who proposed it during a two-week period.
+                    </p>
+                    <p>
+                        The active delegate pool is updated and shuffled daily during the maintenance interval. The system that E-Dinar Coin uses ensures that the delegate participation rate never falls below 99%, therefore making the cryptocurrency and user assets highly secure.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="techDistribution" class="wp-desc">
+                    <span class="title">Coin distribution</span>
+                    <p>
+                        <span class="quote left">&#8230;would total in 2,500,000,000 EDR</span>
+                        Since cryptocurrencies are not based on anything but the number of registered users and the total coin mass owned by the users as well as its acceptance on the financial markets, it was decided that the initial emission of coins would total in 2,500,000,000 EDR and the daily fixed staking rate would be 0.65% or 19.5% to 20.15% per month. The maximum number of coins that may be issued within 33 years is 9,999,999,999,999 EDR.
+                    </p>
+                    <p>
+                        The stake rate is of a genesis nature and therefore cannot be changed through approval voting by the stakeholders, making E-Dinar Coin much more democratic, inclusive, and profitable than other cryptocurrencies.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="techBurning" class="wp-desc">
+                    <span class="title">Coin burning</span>
+                    <p>
+                        <span class="quote right">&#8230;destroyed by being sent to an illogical address</span>
+                        At E-Dinar Coin, a concept called coin burning is used to reduce inflation and stimulate coin demand, which leads to constant increases in the market price of the cryptocurrency. Coins can be burned, or simply destroyed, in two different ways.
+                    </p>
+                    <p>
+                        First and foremost, all transaction fees in the system (0.001 EDR) are destroyed by being sent to an illogical address that is not and will never be assigned a private key. This way, the transaction amount still remains within the system but cannot be either accessed or spent by anyone.
+                    </p>
+                    <p>
+                        On the other hand, delegates may set a percentage pay rate for themselves. For example, if a delegate sets a pay rate of 95%—which must be approved by the majority of other delegates and stakeholders—it means that 5% of what they receive for signing a block will be destroyed.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="techReferralSystem" class="wp-desc">
+                    <span class="title">Multi-level referral system</span>
+                    <p>
+                        Multi-level referral system that E-Dinar Coin uses is yet another way to counter-balance inflation and make the cryptocurrency self-consistent by ensuring a constant flow of new users.
+                    </p>
+                    <p>
+                        <img src="/wp-content/uploads/2017/03/0_a51f7_dcfe3377_orig.png" alt=""/>
+                    </p>
+                    <p>
+                        E-Dinar Coin is one of the few cryptocurrencies in the world that—apart from funds that can be earned by staking—offers a seven level referral program with bonuses.
+                    </p>
+                    <p>
+                        The referral system was added into the system in order to increase the number of EDR coins in a natural way, which when coupled with the limited number of coins being able to be issued, offsets the negative impact of inflation by leading to the market deflation and minimizes the probability of tragedy of the commons.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="techSustainability" class="wp-desc">
+                    <span class="title">Sustainability and eco-friendliness</span>
+                    <p>
+                        <span class="quote left md">&#8230;a part of the profits is
+regularly donated to charity
+funds around the world</span>
+                        Since there is no need to physically mine coins by using GPUs under DPOS system, which E-Dinar Coin is based upon, it presents no threats to the environment and therefore may be considered 100% sustainable.
+                    </p>
+                    <p>
+                        At E-Dinar coins are made only thanks to a certain quantity of funds that a stakeholder must have and the transactions they make. In POW systems miners create mining pools that are often comprised of dozens of thousands of extremely powerful GPUs that require enormous amounts of energy to be wasted daily.
+                    </p>
+                    <p>
+                        Apart from it, mining in all POW based cryptocurrencies becomes more and more difficult with time because of the total limit of coins that may be issued over a certain period of time. Under POW it is impossible not to mine because in this case the nodes in the system won’t be able to reach the distributed consensus and the blockchain would be exposed to hacker attacks.
+                    </p>
+                    <p>
+                        Yet another thing that makes E-Dinar Coin unique and the most eco-friendly and green cryptocurrency so far is that a part of the profits is regularly donated to charity funds around the world as well as used for donations to projects engaged in the environmental protection.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="wp-section__advantage wp-section__common">
+    <div class="head">
+        <div class="container container-sm">
+            <div class="row">
+                <div class="col-sm-6">
+
+                </div>
+                <div class="col-sm-6">
+                    <div class="head__descWrap">
+                        <label class="h1 title inverse text-uppercase small-indent">
+                            THE COMPETITIVE ADVANTAGE
+                        </label>
+                        <p>
+                            E-Dinar Coin is the most democratic yet secure way to earn and control money without the need of using a central authority.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        <span class="quote right">It’s the answer to nowadays&#8230;</span>
+                        By solving a wide variety of problems that both fiat money and cryptocurrencies present—centralization, corruption, lack of transparency, efficiency, and user-friendliness, vulnerability to attacks, excessive use of resources, and low ROI—it gives the complete rights over how the money functions to its holders, the people.
+                    </p>
+                    <p>
+                        It’s the answer to nowadays’ world ridden with instability and a true answer to the challenges presented by tangible and intangible financial tools people are compelled to use due to a lack of a realistic alternative.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="advantageCurrencies" class="wp-desc">
+                    <span class="title">Current situation:
+Fiat money and banking system</span>
+                    <p>
+                        <span class="quote left md">
+                            “Money&#8217;s a matter of functions four, A Medium, a Measure, a Standard, a Store.”
+                            <span class="row">
+                                <span class="author">Milnes, Alfred</span>
+                                <img src="/wp-content/themes/twentyfifteen/img/white_paper/alfred_milnes.png" alt=""/>
+                            </span>
+                        </span>
+                        Since the earliest times people have been looking for something tangible that they would be able to use for purposes of trade and exchange. This means of trade and exchange was dubbed as money.
+                    </p>
+                    <p>
+                        However, it came in different forms and didn’t have the same appearance that currently we are so used to.
+                    </p>
+                    <p>
+                        Back in the stone age people tended to view the majority of items in two ways by looking both at their physical nature and their possibility to be used as a trading instrument. This way the concept of barter—or using an object that has a certain degree of value for exchange to commodities—was born.
+                    </p>
+                    <p>
+                        As early as 9000 BC obsidian came into use as the most ubiquitous material which could be found on the territories of Europe that we currently refer to as Italy and Greece. In the absence of this rock, cattle and grain as well as other materials or foods were used as money or for barter.
+                    </p>
+                    <p>
+                        And though barter answered most of the people’s needs when it comes to exchange and trade back at the old times, it wasn’t the ideal choice for a couple of reasons.
+                    </p>
+                    <p>
+                        <span class="first-letter">F</span>irstly, barter didn’t provide a solution to the problem of coincidence of wants, which is the failure in comparing the value of two objects that are to be traded, and cannot be considered a stable medium of exchange.
+                    </p>
+                    <p>
+                        <span class="first-letter">S</span>econdly, since the majority of items that were used for barter were either materials or foods, they could not serve as a medium of store or value. Cattle and grain could perish or be eaten and materials, such as obsidian or other rocks and metals, were not widely available in all parts of the world and therefore could not be used for international trade or exchange.
+                    </p>
+                    <p>
+                        <span class="first-letter">T</span>hirdly, it could not be used as a measure of value because people basically used anything of value at hand—lacking a standardized value—for purposes of barter.
+                    </p>
+                    <p>
+                        The question of the asset ownership was not particularly clear within the barter system, too. Since bartering didn’t serve as a measure of value, tally sticks came into use as a memory aid for documenting numbers and quantities in trade deals.
+                    </p>
+                    <p>
+                        They were sticks made either of bone or wood with marks that were documenting the rights of the owner or owners over the traded assets.
+                    </p>
+                    <p>
+                        A necessity to retain the ownership of traded assets, or at least the need to have a kind of documented proof that one commodity was changed for the other one and the accounts have been settled, came to be the tipping point of a transition from the barter system and tally sticks to something that would have a fixed value in this or that region, minted coins.
+                    </p>
+                    <p>
+                        As early as 700 BC, when the society growth was gathering its pace which lead to increases in trade, first coins were minted in India, China, and in cities around the Aegean sea from such materials as electrum, which is a naturally occurring alloy of silver and gold. Gold, silver, and copper came to be used as the primary materials for coinage in the centuries to follow.
+                    </p>
+                    <p>
+                        During this time the word money appeared from Latin word moneta, which was the temple of Juno goddess in Rome that became the place where coins in the Ancient Rome were minted.
+                    </p>
+                    <p>
+                        Coins had a major advantage over barter because they were measurable, more universal than commodities, and much smaller than anything that was used as a payment measure ever before.
+                    </p>
+                    <p>
+                        And though coins were a major step-up in convenience of use from the barter system, they resulted to have their drawbacks, too.
+                    </p>
+                    <p>
+                        Since coins were commonly made of precious metals that were scarce, it was virtually impossible to mint higher quantities of coins that the market growth demanded. Also, they were something clipped by people because of their high value.
+                    </p>
+                    <p>
+                        And lastly, not all nations had the same concept of the coin value and some materials were valued higher or lower depending on the territory where they were used. This interfered with the necessity of money to serve as the store of value and measure of value.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        <span class="quote right">&#8230;situation was stabilized</span>
+                        In the 18th century the situation was stabilized with the intervention of banking institutions—which in its modern sense started appearing in the 16th century in Italy—that made it possible to change money into gold, which made coins to be units of value and not units of weight.
+                    </p>
+                    <p>
+                        Fueled by the development of society as well as a considerable increase in trade and business, the Bank of England became the world’s first bank that started issuing paper banknotes, which were initially hand-written, therefore making it possible for people to take out loans in form of bank debt instead of only lending money, making deposits, or changing money.
+                    </p>
+                    <p>
+                        Further on banks started improving on their services, providing more complex financial tools, and turning into something that we are all accustomed to now. Deposits were offered with advantageous ROIs, the whole system was convenient, and it was thought to be secure to keep funds at banks.
+                    </p>
+                    <p>
+                        However, at the beginning of the 21st century it became clear that the banks failed to reach and provide people with the financial security they ought by giving out an enormous amount of mortgages in an uncontrolled way, which lead to a housing bubble.
+                    </p>
+                    <p>
+                        The housing bubble maintained with mortgage-backed securities and the collateralized debt obligations, which were oftentimes offered by unqualified and corrupt banking institutions that were completely centralized, finally popped and resulted in the massive global crisis.
+                    </p>
+                    <p>
+                        In the years to come the consequences of this worldwide crisis were eliminated, but still fiat money was sensitive to political and geopolitical events happening around the world as well as fluctuations in prices of natural resources, making its value go wayward.
+                    </p>
+                    <p>
+                        This way, following almost 500 years after the birth of banks and over a thousand of years after the appearance of currencies with fixed value, money hasn’t proven itself as an effective measure and store of value.
+                    </p>
+                    <p>
+                        The world’s slowly deteriorating financial system and rising tensions in the society at the end of 2000’s demonstrated that people all around the planet lacked security and stability when it came to using fiat money and therefore were waiting for a change.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div id="advantageCryptocurrencies" class="wp-desc">
+                    <span class="title">Current situation: Cryptocurrencies</span>
+                    <p>
+                        <span class="quote left md">&#8230;modern way of dealing with the inefficiencies of the banking industry</span>
+                        The concept of cryptocurrencies appeared back in 2009 together with the launch of the world’s first cryptocurrency, Bitcoin. As all other cryptocurrencies—the number of which has surpassed 600 as of 2016—it is powered by a decentralized database called blockchain.
+                    </p>
+                    <p>
+                        Cryptocurrencies are seen as a modern way of dealing with the inefficiencies of the banking industry by offering people a lack of corruption thanks to the decentralization and absence of the governing authority, transparency and scalability due to the use of blockchain, and higher safety of funds thanks to the data encryption.
+                    </p>
+                    <p>
+                        As explained above, there are three main types of cryptocurrencies—POW, POS, and DPOS—that offered people to maintain the security of the system and give them coins in return, something similar to ROIs in bank deposits.
+                    </p>
+                    <p>
+                        It was much safer to use cryptocurrencies than to keep funds at banks, the value of cryptocurrencies didn’t fluctuate depending on changes in the natural resources market or political scene, and they answered the requirements of the open market—which is non-involvement of authorities—much better than fiat money.
+                    </p>
+                    <p>
+                        However, the growth in popularity of POW based cryptocurrencies brought along an array of issues the solution to which hasn’t been found so far. Mining of coins became a completely energy inefficient and overly expensive process for common users, harming the environment and wasting enormous amounts of money, therefore leading to appearance of miner monopolies that jeopardized the decentralization, fairness, and security of the whole system.
+                    </p>
+                    <p>
+                        Due to the actions of agglomerations of miners, which proved to be prone to corruption, the block signing times and transaction fees have skyrocketed, making the system more and more inconvenient to use.
+                    </p>
+                    <p>
+                        And though POS based cryptocurrencies managed to avoid physical mining, therefore making it possible to waste no electricity, the algorithm was still exposed to vulnerabilities in security and possibilities of unwanted centralization.
+                    </p>
+                    <p>
+                        Low mining fees in POW and low ROIs in POS interfered with popularization of cryptocurrencies—making them an inefficient medium of exchange—whilst security concerns cast doubts on their use as a reliable store of value.
+                    </p>
+                    <p>
+                        With the appearance of an updated, more secure, and more democratic algorithm of POS in 2014, DPOS, an improved version of which E-Dinar Coin is powered by, a question mark hanging over the future of cryptocurrencies started disappearing as Delegated Proof-of-stake has offered bright prospects of financial stability and long-standing growth.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dark-box">
+        <div class="container container-sm">
+            <div id="advantage" class="dark-box__in">
+                <span class="title">Advantages over fiat money and cryptocurrencies</span>
+                <p>
+                    Creators of E-Dinar Coin felt the need of people for a more universal, just, stable, and understandable means of payment and storage of their funds that would be devoid of all drawbacks that today’s banking system and cryptocurrencies have.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <span class="title-xs">Decentralization, democracy, lack of corruption, and transparency</span>
+                    <p>
+                        <span class="quote right">&#8230;.but anything beyond their account</span>
+                        Currently banks promote their financial services and tools as completely transparent. However, any system that is controlled by a person or group of people cannot be transparent because of corruption that is intrinsic in the nature of a man.
+                    </p>
+                    <p>
+                        Banks let their users review their own transaction history, but anything beyond their account—including the source of the money they own or receive—is impossible to trace without having full access to the internal system.
+                    </p>
+                    <p>
+                        If a certain financial crime took place, whether by a common bank user or an executive, it would require an audit that usually takes weeks and may cost up to a several million of dollars.
+                    </p>
+                    <p>
+                        E-Dinar Coin as well as all other cryptocurrencies make the whole system transparent and easily scalable through the use of an open access blockchain database where all transactions can be quickly traced to their source.
+                    </p>
+                    <p>
+                        Apart from being transparent, the blockchain database is decentralized. This means that no user controls anything in the system but at the same time they control everything, too. Decentralization makes it possible to get rid of corrupt individuals in control of the whole system and give inclusive rights over it to all of its users.
+                    </p>
+                    <p>
+                        And though the most popular cryptocurrencies may be considered far more democratic and far less corrupt than the banks that manage fiat money, POW and POS based cryptocurrencies are still vulnerable to misdoings of some users that may breach the security of the blockchain and take over it, making it centralized.
+                    </p>
+                    <p>
+                        E-Dinar Coin is powered by a new and promising DPOS system where probabilities of a security breach leading to the system centralization are equal to zero thanks to the presence of delegates that oversee the system’s stability.
+                    </p>
+                    <p>
+                        These delegates are common people who are elected by other users and may be downvoted if something goes wrong or jeopardizes the integrity of blockchain.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div class="wp-desc">
+                    <span class="title-xs">High ROIs, fair coin distribution, stability,
+and advanced referral system</span>
+                    <p>
+                        Currently most of banking institutions around the world never offer annual ROIs that are higher than 10%, which is clearly not enough unless you are planning to make a large deposit. Apart from it, lately fiat money was demonstrating high volatility because of the various political changes happening around the world as well as changes the prices of natural resources.
+                    </p>
+                    <p>
+                        Cryptocurrencies, quite the other way, proved to be insensitive to the issues on the global political scene and natural resource price changes and tend to grow when fiat money plunge.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/advantge_graph1.png" alt="">
+                        <span class="quote right xs-static">
+                            <span class="row">
+                               <span class="square green"></span>
+                                <span class="quote-desc">Other cryptocurrencies</span>
+                            </span>
+                            <span class="row">
+                                <span class="square grey"></span>
+                                <span class="quote-desc">Banks</span>
+                            </span>
+                            <span class="row">
+                                <span class="square purple"></span>
+                                <span class="quote-desc">E-DINARCOIN</span>
+                            </span>
+                        </span>
+                    </p>
+                    <p>
+                        Even though cryptocurrencies are more stable than fiat money, the question of ROIs still remains to be pressing. Mining coins in POW cryptocurrencies has become too expensive and cost inefficient for common users, whilst staking ROIs in most of POS and DPOS cryptocurrencies are fixed at 3% to 5% per annum.
+                    </p>
+                    <p>
+                        E-Dinar Coin improves on this by providing all of its users a fixed staking ROI of almost 20% per month with the possibility of increasing their gains via an advanced seven level referral system that was created to act as an incentive for the users to broaden the cryptocurrency user pool and reduce inflation.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div class="wp-desc">
+                    <span class="title-xs">Low commission fees and quick transaction processing times</span>
+                    <p>
+                        Currently most of banking institutions around the world never offer annual ROIs that are higher than 10%, which is clearly not enough unless you are planning to make a large deposit. Apart from it, lately fiat money was demonstrating high volatility because of the various political changes happening around the world as well as changes the prices of natural resources.
+                    </p>
+                    <p>
+                        Cryptocurrencies, quite the other way, proved to be insensitive to the issues on the global political scene and natural resource price changes and tend to grow when fiat money plunge.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="wp-desc">
+                    <p>
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/advantge_graph2.png" alt="">
+                        <span class="quote righ xs-static">
+                            <span class="row">
+                               <span class="square green"></span>
+                                <span class="quote-desc">Bitcoin</span>
+                            </span>
+                            <span class="row">
+                                <span class="square grey"></span>
+                                <span class="quote-desc">Banks</span>
+                            </span>
+                            <span class="row">
+                                <span class="square purple"></span>
+                                <span class="quote-desc">E-DINARCOIN</span>
+                            </span>
+                        </span>
+                    </p>
+                    <p>
+                        Today’s most popular cryptocurrencies offer lower transaction fees and quicker processing times than banks, but since miners are given the right to choose which transactions they process first and what transactions fees to impose, using of POW based cryptocurrencies became a long and expensive thing.
+                    </p>
+                    <p>
+                        <img src="/wp-content/themes/twentyfifteen/img/white_paper/advantge_graph3.png" alt="">
+                        <span class="quote right xs-static">
+                            <span class="row">
+                               <span class="square green"></span>
+                                <span class="quote-desc">Bitcoin</span>
+                            </span>
+                            <span class="row">
+                                <span class="square grey"></span>
+                                <span class="quote-desc">Banks</span>
+                            </span>
+                            <span class="row">
+                                <span class="square purple"></span>
+                                <span class="quote-desc">E-DINARCOIN</span>
+                            </span>
+                        </span>
+                    </p>
+                    <p>
+                        Thanks to democratically elect delegates that process all transactions at E-Dinar Coin, every block in the blockchain is signed in less than 3 seconds and the transaction fee is fixed at 0.001 EDR.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 col-sm-offset-6">
+                <div class="wp-desc">
+                    <span class="title-xs">Energy efficiency and eco-friendliness</span>
+                    <p>
+                        POW based cryptocurrencies such as Bitcoin turned out to be energy inefficient and overly harmful to the nature because of the need to use mining equipment that uses enormous amounts of energy.
+                    </p>
+                    <p>
+                        Growth of POW cryptocurrencies makes it even more difficult for miners to earn coins and it’s seen that if Bitcoin maintains its growth rate, it will require consumption of the same amount of power as entire Denmark in 2020 in order to be functional.
+                    </p>
+                    <p>
+                        E-Dinar Coin doesn’t use Proof-of-work mechanism in order to reach consensus between all members of the network and ensure its security. Staking, which is a proof of having a certain amount of coins in the user’s wallet, is used for this purposes instead, making it possible to avoid wasting energy.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="advantageAnalysis" class="wp-desc">
+                    <span class="title">Competition analysis</span>
+                    <p>
+                        <span class="quote right md">&#8230;one established DPOS cryptocurrency, BitShares</span>
+                        Since DPOS based cryptocurrencies are a recently new concept, the market competition is scarce.
+                    </p>
+                    <p>
+                        Apart from E-Dinar Coin, currently there is only one established DPOS cryptocurrency, BitShares, which has managed to become relatively successful and linger on the market for longer than a year.
+                    </p>
+                    <p>
+                        However, the daily volume of BitShares equals to less than $50,000 and the value of one BTS is only $0.0035 as of November 2016 as compared with the daily volume of E-Dinar Coin of $750,000 and the value of one EDR of $0.85.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="advantageRisks" class="wp-desc text-center">
+                    <span class="title">Risks and opportunities</span>
+                </div>
+                <div class="risk__wrap">
+                    <div class="risk risk_1 circle">
+                        <div class="risk__in">
+                            <span class="title">STRENGTHS</span>
+                            <p>Traded at over 10 of the world’s biggest exchange houses</p>
+                            <p>Daily trading volume of over $1,000,000</p>
+                            <p>High coin value</p>
+                            <p>Devoid of corruption</p>
+                            <p>Transparent</p>
+                            <p>Democratic</p>
+                            <p>Stable</p>
+                            <p>High ROI</p>
+                            <p>Advanced referral system</p>
+                            <p>Low commissions</p>
+                            <p>Quick transaction processing times</p>
+                            <p>Energy efficient and eco-friendly</p>
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_strengths.png" alt=""/>
+                        </div>
+                    </div>
+                    <div class="risk risk_2 circle">
+                        <div class="risk__in">
+                            <span class="title">WEAKNESSES</span>
+                            <p>Possibilities of inflation</p>
+                            <p>Possible fluctuations in price</p>
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_weaknesses.png" alt=""/>
+                        </div>
+                    </div>
+                    <div class="risk risk_3 circle">
+                        <div class="risk__in">
+                            <span class="title">OPPORTUNITIES</span>
+                            <p>Growth of the user pool at an exponential rate</p>
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_opportunities.png" alt=""/>
+                        </div>
+                    </div>
+                    <div class="risk risk_4 circle">
+                        <div class="risk__in">
+                            <span class="title">THREATS</span>
+                            <p>Possible competition Governmental regulation</p>
+                            <img src="/wp-content/themes/twentyfifteen/img/white_paper/icon_threats.png" alt=""/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="wp-section__future wp-section__common">
+    <div class="head">
+        <div class="container container-sm">
+            <div class="row">
+                <div class="col-sm-6 col-sm-offset-6">
+                    <div class="head__descWrap">
+                        <label class="h1 title inverse text-uppercase small-indent">
+                            FUTURE PLANS
+                        </label>
+                        <p>
+                            We at E-Dinar Coin believe that long-standing growth can be achieved through hard work, sustainable development, and taking of new approaches to financial industry. Learn what E-Dinar Coin is seen to become by 2020.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container container-sm">
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="planscOverage" class="wp-desc">
+                    <span class="title">Representative offices and coverage</span>
+                    <p>
+                        <span class="quote right md">&#8230;continue opening representative offices</span>
+                        We think that a cryptocurrency, just like any other financial instrument, should be understandable and user-friendly. This is why we are planning to continue opening representative offices all around the world in order to help our users find the right answers to their questions and let them understand the true potential of E-Dinar Coin.
+                    </p>
+                    <p>
+                        Massive broadening of E-Dinar Coin representative office chain in Asia and Europe is set to be carried out in 2017.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    <!-- footer -->
+    <footer class="footer">
+
+        <div class="container container-sm">
+            <div class="row division-list">
+
+                <div class="col-xs-12 col-sm-4 col-md-5 col-cell">
+                    <div class="title-wrp">
+                        <label class="h1 title text-uppercase">Contact us</label>
+                    </div>
+
+                    
+                    <ul class="list-group list-group-clear">
+                                                    <li class="list-group-item">
+                                China +86 400 070 59 23                            </li>
+                                                                                                    <li class="list-group-item">
+                                USA +1 888 226 44 02                            </li>
+                                                                            <li class="list-group-item">
+                                Brasil +55 613 181 02 43                            </li>
+                                                                            <li class="list-group-item">
+                                United Kingdom +44 203 514 77 40                            </li>
+                                                                            <li class="list-group-item">
+                                Russia +7 800 350 01 73                            </li>
+                                                                            <li class="list-group-item">
+                                Ukraine +38 044 360 713 3                            </li>
+                                                                            <li class="list-group-item">
+                                Kazakhstan +77 273 50 54 18                            </li>
+                                                                                            </ul>
+                </div><!-- col-xs-12 col-sm-4 -->
+
+                <div class="col-xs-12 col-sm-4 col-cell">
+                    <div class="title-wrp">
+                        <label class="h1 title text-uppercase">wallets                        </label>
+                    </div>
+                                        <ul class="list-group list-group-clear text-uppercase">
+                        <li class="list-group-item">
+                            <a href="/applications/edinar-android.1.2.15.apk" data-event="downloadAndroid" class="wallets_metrika">
+                                <i class="fa fa-android fa-primary fa-inverse fa-2lg"></i>Android Wallet                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a target="_blank" href="https://wallet.edinarcoin.com" data-event="webWallet" class="wallets_metrika">
+                                <i class="fa fa-android fa-blockchain fa-primary fa-inverse fa-2lg"></i>Blockchain Wallet                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://app.edinarcoin.com/download/latest/windows_32" data-event="downloadWin" class="wallets_metrika">
+                                <i class="fa fa-windows fa-primary fa-inverse fa-2lg"></i>Windows  WALLET 32BIT                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://app.edinarcoin.com/download/latest/windows_64" data-event="downloadWin" class="wallets_metrika">
+                                <i class="fa fa-windows fa-primary fa-inverse fa-2lg"></i>Windows  WALLET 64BIT                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://app.edinarcoin.com/download/latest/osx_64" data-event="downloadMac" class="wallets_metrika">
+                                <i class="fa fa-apple fa-primary fa-inverse fa-2lg"></i>OS X Wallet                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://app.edinarcoin.com/download/latest/linux_64" data-event="downloadLinux" class="wallets_metrika">
+                                <i class="fa fa-linux fa-primary fa-inverse fa-2lg"></i>Linux Wallet                            </a>
+                        </li>
+                    </ul>
+                </div><!-- col-xs-12 col-sm-4 -->
+
+                <div class="col-xs-12 col-sm-4 col-md-3 col-cell">
+                    <div class="title-wrp">
+                        <label class="h1 title text-uppercase">
+                                                        <a href="https://edinarcoin.com/buy-edinarcoin-en/" class="btn btn-primary btn-xs btn-inverse">Buy EDINARCOIN</a>
+                        </label>
+                    </div>
+                    <ul class="list-group list-group-clear text-uppercase">
+                        <li class="list-group-item">
+                                                        <a href="https://edinarcoin.com/cooperation-en/">Cooperation</a>
+                        </li>
+                        <li class="list-group-item">
+                                                        <a href="https://edinarcoin.com/materials-en/">User Guide</a>
+                        </li>
+                        <li class="list-group-item">
+                                                        <a href="https://edinarcoin.com/faq-en/">FAQ</a>
+                        </li>
+                        <li class="list-group-item">
+                                                        <a href="https://edinarcoin.com/development-api-en/">API</a>
+                        </li>
+
+                        <li class="list-group-item">
+                                                        <a href="https://edinarcoin.com/contact-en/">Contact</a>
+                        </li>
+
+                        <li class="list-group-item">
+                                                        <a href="https://edinarcoin.com/whitepaper-en/">Whitepaper</a>
+                        </li>
+                                                                            <li class="list-group-item">
+                                <a target="_blank" href="/docs/presentation_en.pdf">Presentation</a>
+                            </li>
+                        
+                        <li class="list-group-item">
+                                                        <a href="https://edinarcoin.com/roadmap-en/">Roadmap</a>
+                        </li>
+                    </ul>
+                </div><!-- col-xs-12 col-sm-4 -->
+
+                <div class="col-sm-12 footer__soc">
+                    <ul class="list-inline">
+                                                    <li>
+                                <a href="https://www.facebook.com/EDinarCoinWorld/" target="_blank">
+                                    <i class="fa fa-facebook fa-primary fa-inverse fa-2lg"></i>
+                                </a>
+                            </li>
+                                                                            <li>
+                                <a href="https://twitter.com/edinarworldwide" target="_blank">
+                                    <i class="fa fa-twitter fa-primary fa-inverse fa-2lg"></i>
+                                </a>
+                            </li>
+                                                                            <li>
+                                <a href="https://www.instagram.com/edinarcoin.official/" target="_blank">
+                                    <i class="fa fa-instagram fa-primary fa-inverse fa-2lg"></i>
+                                </a>
+                            </li>
+                                                                                                    <li>
+                                <a href="http://mmgp.ru/forumdisplay.php?f=643" target="_blank">
+                                    <i class="icon-mmgp"></i>
+                                </a>
+                            </li>
+                                                                            <li>
+                                <a href="https://telegram.me/EdinarCoincrypto" target="_blank">
+                                    <i class="fa fa-telegram fa-primary fa-inverse fa-2lg"></i>
+                                </a>
+                            </li>
+                                                                            <li>
+                                <a href="https://www.youtube.com/channel/UCOEpjjSia7IDn9JMm82MIVA?sub_confirmation=1" target="_blank">
+                                    <i class="fa fa-youtube fa-primary fa-inverse fa-2lg"></i>
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+
+            </div><!-- division-list -->
+            <div class="text-center footer-bottom-wrp">
+                <p class="text-upppercase">&copy; <a href="https://beta.companieshouse.gov.uk/company/10659330">BLOCKCHAIN GAMES CRYPTOCURRENCY LTD</a></p>
+                <p>edinarcoin.com 沪ICP备15038270号-23</p>
+                <p>e-dinarcoin.com 苏ICP备16058370号-1</p>
+                <p><a href="http://www.miitbeian.gov.cn/" target="_blank" style="margin: 0;">京ICP备17031672号</a></p>
+                <p><a href="https://mybitgoldwallet.com/" target="_blank" style="margin: 0;">Bitcoin Gold Wallet</a></p>
+                                            </div>
+        </div>
+
+    </footer>
+    <!-- END | footer -->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<script src="https://edinarcoin.com/wp-content/themes/twentyfifteen/js/jquery.min.js"></script>
+<script src="https://edinarcoin.com/wp-content/themes/twentyfifteen/js/bootstrap.js"></script>
+<script src="https://edinarcoin.com/wp-content/themes/twentyfifteen/js/owl.carousel.min.js"></script>
+<script src="https://edinarcoin.com/wp-content/themes/twentyfifteen/js/chosen.jquery.js"></script>
+<script src="https://edinarcoin.com/wp-content/themes/twentyfifteen/js/ed.js"></script>
+
+
+    <style>
+        #exampleModalLong p {
+            margin: 0;
+        }
+    </style>
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-hidden="false">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="post-details-wrp">
+                        <a href="https://edinarcoin.com/nyt-about-edinarcoin/" class="modal-post__title">
+                            <span>E-Dinar Coin Developers Announce the Update of the EDC Mining Conditions</span>
+                        </a>
+                        <span class="modal-post__date">19.06.2017</span>
+                        <p><img src="https://edinarcoin.com/wp-content/uploads/2017/06/0_a6d92_b67d1e48_orig.jpg"></p>
+                        <br>
+                        <p><span style="font-weight: 400;">One of the basic ideas for creating a cryptocurrency is to ensure the stability of the mechanism, both in technical and financial terms. The stabilization system integrated into the E-Dinar Coin blockchain system activates the next element of complication.</span></p>
+                        <br>
+                        <p>From the moment of updating, all the coins mined on the account, before the replenishment on the balance pass the period of “maturity”. The period for each coin is 30 days. Timer countdown starts immediately, at the time of the asset release, and is recorded in the history of operations.</p>
+                        <br>
+                        <p><span style="font-weight: 400;">In the special section of the personal account, the state of the remaining aging period for the mined coins will also be available.</span></p>
+                        <br>
+                        <p><span style="font-weight: 400;">The current EDC mining conditions include the following conditions:</span></p>
+                        <br>
+                        <ul>
+                            <li><span style="font-weight: 400;">Mining takes place only when the application is running on the computer for OS X, Windows, and Linux versions or the web version the address thereof you see on the screen, and also if the Internet connection is always available;</span></li>
+                            <li><span style="font-weight: 400;">All the coins to be mined, before the replenishment on the balance, must go through a period of “maturity”, which is 30 days.</span></li>
+                            <li><span style="font-weight: 400;">The condition for obtaining a daily mining – at least one transaction worth at least 1 EDC per day – remains unchanged.</span></li>
+                        </ul>
+                        <br>
+                        <p>The launch of the next element of complication is scheduled for June 22, 2017. The update will start at 9 a.m. will be completed at 11 p.m. Greenwich&nbsp;time (GMT ). For more information on terms and conditions, check the “News” section on the official <a href="http://edinarcoin.com">website</a>.</p>
+                        <br>
+                        <p><span style="font-weight: 400;">Stay tuned and follow the news!</span></p>
+                        <br>
+                        <p><span style="font-weight: 400;">Subscribe to E-Dinar Coin</span><a href="https://www.youtube.com/channel/UCOEpjjSia7IDn9JMm82MIVA"> <span style="font-weight: 400;">YouTube channel</span></a></p>
+                        <br>
+                        <p><span style="font-weight: 400;">Follow the news on our</span><a href="https://www.facebook.com/EDinarCoinWorld"> <span style="font-weight: 400;">Facebook</span></a><span style="font-weight: 400;"> and</span><a href="https://telegram.me/EdinarCoincrypto"> <span style="font-weight: 400;">Telegram</span></a><span style="font-weight: 400;"> profiles</span></p>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(function() {
+            $('#exampleModalLong').modal();
+        })
+    </script>
+
+
+<script>
+	
+
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter39055445 = new Ya.Metrika({
+					id:39055445,
+					clickmap:true,
+					trackLinks:true,
+					accurateTrackBounce:true
+				});
+			} catch(e) { }
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/39055445" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+	window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+		d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+	_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+		$.src="//v2.zopim.com/?48qrg0MC180u1ruboJ3v4YJmWIhdOlUK";z.t=+new Date;$.
+			type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct:"DMvbm1agbiF2fn", domain:"edinarcoin.com",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=DMvbm1agbiF2fn" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/edinarcoin.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"5dcb359dd2","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/edinarcoin.com\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=1.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var es_widget_notices = {"es_email_notice":"Please enter your email address.","es_incorrect_email":"Please provide a valid email address.","es_load_more":"loading...","es_ajax_error":"Cannot create XMLHTTP instance","es_success_message":"Subscribed successfully.","es_success_notice":"Your subscription was successful! Within a few minutes, kindly check the mail in your mailbox and confirm your subscription. If you can't see the mail in your mailbox, please check your spam folder.","es_email_exists":"Email Address already exists.","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address.","es_try_later":"Please try after some time.","es_problem_request":"There was a problem with the request."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-content/plugins/email-subscribers/widget/es-widget.js?ver=4.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var es_widget_page_notices = {"es_email_notice":"Please enter your email address.","es_incorrect_email":"Please provide a valid email address.","es_load_more":"loading...","es_ajax_error":"Cannot create XMLHTTP instance","es_success_message":"Subscribed successfully.","es_success_notice":"Your subscription was successful! Within a few minutes, kindly check the mail in your mailbox and confirm your subscription. If you can't see the mail in your mailbox, please check your spam folder.","es_email_exists":"Email Address already exists.","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address.","es_try_later":"Please try after some time.","es_problem_request":"There was a problem with the request."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-content/plugins/email-subscribers/widget/es-widget-page.js?ver=4.6.1'></script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='https://edinarcoin.com/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+
+<script>
+    $(function (){
+        $('.btn_scroll').click(function(event) {
+            var id = $(this).attr("href");
+            var target = parseInt($(id).offset().top);
+            if ($(window).scrollTop() != target) {
+                $('html, body').animate({
+                    scrollTop: target
+                }, 500);
+            }
+            event.preventDefault();
+        });
+
+        $('.tabs__btn').click(function (e) {
+            e.preventDefault();
+            $(this).closest('.tabs__list').find('.tabs__btn').removeClass('active');
+            $(this).addClass('active');
+            var tab = $(this).attr('href');
+            $(this).closest('.tabs__wrap').find('.tabs__pane').not(tab).removeClass('active');
+            $(tab).addClass('active');
+        })
+    })
+</script>
+
+</body>
+</html>
+

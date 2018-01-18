@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>Whitepaper &#8211; Phore</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='parent-core-css'  href='https://phore.io/template_main/assets/css/core.min.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thesaas-core-css'  href='https://phore.io/template_main/assets/css/core.min.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://phore.io/plugins/the-elementor/assets/css/frontend.min.css?ver=1.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-page-css'  href='https://phore.io/template_main/assets/css/page.min.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://phore.io/template/phore?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thesaas-fonts-css'  href='//fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C600%2C800%7COswald%3A300%2C600&#038;ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thesaas-page-css'  href='https://phore.io/template_main/assets/css/page.min.css?ver=1.2.0' type='text/css' media='all' />
+<style id='thesaas-page-inline-css' type='text/css'>
+body, button, input, optgroup, select, textarea,
+h6, .h6,
+.heading-alt,
+.typed-cursor,
+.accordion .card-title,
+.font-body,
+.font-opensans {
+  font-family: "Oswald", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.font-title,
+.font-raleway {
+  font-family: "Oswald", sans-serif;
+}
+
+a, a:hover, a:focus,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
+.h1 a:hover, .h2 a:hover, .h3 a:hover, .h4 a:hover, .h5 a:hover, .h6 a:hover,
+[data-typed].text-primary + .typed-cursor,
+.btn-link:hover, .btn-link:focus,
+.nav-link:hover, .menu-item a:hover, .nav-link:focus, .menu-item a:focus, .nav-link.active, .menu-item a.active,
+.nav-primary .nav-link:not(.disabled):hover, .nav-primary .menu-item a:not(.disabled):hover, .menu-item .nav-primary a:not(.disabled):hover, .nav-primary .nav-link:not(.disabled):focus, .nav-primary .menu-item a:not(.disabled):focus, .menu-item .nav-primary a:not(.disabled):focus,
+.custom-checkbox .custom-control-indicator::after,
+.nav-submenu .nav-link.active, .nav-submenu .menu-item a.active, .menu-item .nav-submenu a.active {
+  color: #00cd8d;
+}
+
+.social-hover-primary a:hover,
+.text-primary,
+a.text-primary:hover, a.text-primary:focus,
+.hover-primary:hover, .hover-primary:focus {
+  color: #00cd8d !important;
+}
+
+.badge-primary,
+.scroll-top,
+.custom-radio .custom-control-indicator::after,
+.portfolio-1::before,
+.bg-primary,
+[data-overlay-primary]::before {
+  background-color: #00cd8d;
+}
+
+.border-primary {
+  border-color: #00cd8d;
+}
+
+pre {
+  border-left-color: #00cd8d;
+}
+
+.btn-primary, .comment-form .submit, .post-password-form input[type="submit"], .btn-primary:hover, .comment-form .submit:hover, .post-password-form input[type="submit"]:hover,
+.btn-primary.disabled, .comment-form .disabled.submit, .post-password-form input.disabled[type="submit"], .btn-primary:disabled, .comment-form .submit:disabled, .post-password-form input[type="submit"]:disabled,
+.btn-primary-outline:hover,
+.btn-outline.btn-primary:hover, .comment-form .btn-outline.submit:hover, .post-password-form input.btn-outline[type="submit"]:hover,
+.wpcf7-submit, .wpcf7-submit:hover,
+.wpcf7-submit.disabled, .wpcf7-submit:disabled {
+  background-color: #00cd8d;
+  border-color: #00cd8d;
+}
+
+.btn-primary-outline,
+.btn-outline.btn-primary, .comment-form .btn-outline.submit, .post-password-form input.btn-outline[type="submit"] {
+  color: #00cd8d;
+  border-color: #00cd8d;
+}
+
+
+@media (max-width: 1199px) {
+  .topbar-expand-lg .topbar-nav .nav-link.active, .topbar-expand-lg .topbar-nav .menu-item a.active, .menu-item .topbar-expand-lg .topbar-nav a.active,
+  .topbar-expand-lg .nav-link.active, .topbar-expand-lg .menu-item a.active, .menu-item .topbar-expand-lg a.active {
+    color: #00cd8d;
+  }
+}
+
+
+@media (max-width: 991px) {
+  .topbar-expand-md .topbar-nav .nav-link.active, .topbar-expand-md .topbar-nav .menu-item a.active, .menu-item .topbar-expand-md .topbar-nav a.active,
+  .topbar-expand-md .nav-link.active, .topbar-expand-md .menu-item a.active, .menu-item .topbar-expand-md a.active {
+    color: #00cd8d;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .topbar-expand-sm .topbar-nav .nav-link.active, .topbar-expand-sm .topbar-nav .menu-item a.active, .menu-item .topbar-expand-sm .topbar-nav a.active,
+  .topbar-expand-sm .nav-link.active, .topbar-expand-sm .menu-item a.active, .menu-item .topbar-expand-sm a.active {
+    color: #00cd8d;
+  }
+}
+
+@media (max-width: 575px) {
+  .topbar-expand-xs .topbar-nav .nav-link.active, .topbar-expand-xs .topbar-nav .menu-item a.active, .menu-item .topbar-expand-xs .topbar-nav a.active,
+  .topbar-expand-xs .nav-link.active, .topbar-expand-xs .menu-item a.active, .menu-item .topbar-expand-xs a.active {
+    color: #00cd8d;
+  }
+}
+
+::selection {
+  background: #1eebab;
+}
+::-moz-selection {
+  background: #1eebab;
+}
+
+.form-control:focus,
+.post-password-form input[type="password"]:focus,
+.wpcf7-text:focus,
+.wpcf7-date:focus,
+.wpcf7-quiz:focus,
+.wpcf7-number:focus,
+.wpcf7-select:focus,
+.wpcf7-textarea:focus {
+  border-color: #32ffbf;
+}
+
+.scroll-top {
+  box-shadow: 0 3px 15px rgba(0,205,141,0.4);
+}
+
+.body-scrolled .scroll-top:hover,
+.body-scrolled .scroll-top:focus {
+  box-shadow: 0 3px 20px rgba(0,205,141,0.6);
+}
+
+.btn-primary:hover,
+.wpcf7-submit:hover {
+  box-shadow: 0 2px 10px rgba(0,205,141,0.4);
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.show > .btn-primary.dropdown-toggle,
+.btn-outline.btn-primary:active,
+.btn-outline.btn-primary.active,
+.show > .btn-outline.btn-primary.dropdown-toggle,
+.wpcf7-submit:active,
+.wpcf7-submit.active,
+.show > .wpcf7-submit.dropdown-toggle, {
+  background-color: #00af6f;
+  border-color: #00af6f;
+}
+
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='https://phore.io/plugins/the-elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://phore.io/plugins/the-elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://phore.io/plugins/the-elementor/assets/css/animations.min.css?ver=1.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-239-css'  href='https://phore.io/wp-content/uploads/elementor/css/post-239.css?ver=1516115611' type='text/css' media='all' />
+<script type='text/javascript' src='https://phore.io/inc/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://phore.io/inc/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://phore.io/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://phore.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphore.io%2Fwhitepaper%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://phore.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphore.io%2Fwhitepaper%2F&#038;format=xml" />
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="icon" href="https://phore.io/wp-content/uploads/2018/01/cropped-Phore-logo-new-transparant-2-e1516104239735-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://phore.io/wp-content/uploads/2018/01/cropped-Phore-logo-new-transparant-2-e1516104239735-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://phore.io/wp-content/uploads/2018/01/cropped-Phore-logo-new-transparant-2-e1516104239735-180x180.png" />
+<meta name="msapplication-TileImage" content="https://phore.io/wp-content/uploads/2018/01/cropped-Phore-logo-new-transparant-2-e1516104239735-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/		</style>
+	
+</head>
+
+<body class="page-template-default page page-id-239  elementor-expert-user elementor-default elementor-page elementor-page-239">
+
+	
+
+<!-- Topbar -->
+<nav class="topbar  topbar-expand-md topbar-sticky">
+	<div class="container">
+
+		<div class="topbar-left">
+						<button class="topbar-toggler">&#9776;</button>
+						<a class="topbar-brand" href="https://phore.io/">
+				<img src="https://phore.io/wp-content/uploads/2018/01/phore-logo-new-transparant-black-website.png" alt="Phore" class="logo-default">				<img src="https://phore.io/wp-content/uploads/2018/01/Phore-logo-new-transparant-2-e1516104239735.png" alt="Phore" class="logo-inverse">			</a>
+		</div>
+
+
+		<div class="topbar-right">
+			<ul id="menu-secondary" class="topbar-nav nav"><li id="nav-menu-item-122" class="nav-item"><a class="nav-link  menu-item-type-post_type menu-item-object-page menu-item-home" href="https://phore.io/">Home</a></li><li id="nav-menu-item-389" class="nav-item"><a class="nav-link  menu-item-type-post_type menu-item-object-page" href="https://phore.io/team/">Team</a></li><li id="nav-menu-item-293" class="nav-item"><a class="nav-link  menu-item-type-custom menu-item-object-custom menu-item-has-children" href="#" data-scrollto="getphore">Download <i class="fa fa-caret-down"></i></a><div class="nav-submenu depth-0">
+<a class="nav-link  menu-item-type-custom menu-item-object-custom menu-item-home" href="https://phore.io/#download">Wallets</a><a class="nav-link  menu-item-type-post_type menu-item-object-page" href="https://phore.io/bootstrap/">Bootstrap</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="http://paper.phore.io/">Paper Wallet</a></div>
+</li><li id="nav-menu-item-292" class="nav-item"><a class="nav-link  menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children active" href="#" data-scrollto="info">Info <i class="fa fa-caret-down"></i></a><div class="nav-submenu depth-0">
+<a class="nav-link  menu-item-type-post_type menu-item-object-page" href="https://phore.io/phore-roadmap/">Roadmap</a><a class="nav-link  menu-item-type-post_type menu-item-object-page current-page_item page-item-239 current_page_item active" href="https://phore.io/whitepaper/">Whitepaper</a><a class="nav-link  menu-item-type-post_type menu-item-object-page" href="https://phore.io/masternodes/">Masternodes</a><a class="nav-link  menu-item-type-post_type menu-item-object-page" href="https://phore.io/staking/">Staking</a><a class="nav-link  menu-item-type-post_type menu-item-object-page" href="https://phore.io/faq/">FAQ</a></div>
+</li><li id="nav-menu-item-288" class="nav-item"><a class="nav-link  menu-item-type-custom menu-item-object-custom menu-item-has-children" href="#" data-scrollto="resources">Resources <i class="fa fa-caret-down"></i></a><div class="nav-submenu depth-0">
+<a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://chainz.cryptoid.info/phr/">Explorer</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://coinmarketcap.com/currencies/phore/">CoinMarketCap</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://www.blockfolio.com/">Blockfolio</a></div>
+</li><li id="nav-menu-item-191" class="nav-item"><a class="nav-link  menu-item-type-custom menu-item-object-custom menu-item-has-children" href="#" data-scrollto="social">Social <i class="fa fa-caret-down"></i></a><div class="nav-submenu depth-0">
+<a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://bitcointalk.org/index.php?topic=2307909.0">BitcoinTalk</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://t.me/joinchat/F0zLDwzFC8r91eem6x_cBQ">Telegram</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://discord.gg/Aucncz5">Discord</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://twitter.com/phorecrypto">Twitter</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://www.facebook.com/Phore-1996158580662988/">Facebook</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://www.reddit.com/r/PhoreProject/">Reddit</a><a class="nav-link  menu-item-type-custom menu-item-object-custom" href="https://www.youtube.com/channel/UCxEt3qrXnIj4VbEe3O_zxhw/featured">YouTube</a></div>
+</li><li id="nav-menu-item-287" class="nav-item"><a class="nav-link  menu-item-type-post_type menu-item-object-page" href="https://phore.io/buy-phore/">Buy Phore</a></li></ul>
+					</div>
+
+	</div>
+</nav>
+<!-- END Topbar -->
+
+	<!-- Header -->
+		<!-- END Header -->
+
+	<!-- Main container -->
+	<main class="main-content">
+		<div class="elementor elementor-239">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="ibknvgi" class="elementor-element elementor-element-ibknvgi elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="gmsqaxh" class="elementor-element elementor-element-gmsqaxh elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="gznaklb" class="elementor-element elementor-element-gznaklb elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="tpnklus" class="elementor-element elementor-element-tpnklus elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="eehibxr" class="elementor-element elementor-element-eehibxr elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="rkbador" class="elementor-element elementor-element-rkbador elementor-widget elementor-widget-the-cover" data-element_type="the-cover.default">
+				<div class="elementor-widget-container">
+					
+		
+			<header class="header    overflow-hidden" style="background-color: #cef8ee; padding-top: 120px; padding-bottom: 120px;" >
+
+		
+		
+		
+
+					<div class="container text-center">
+		
+
+		
+      <div class="row ">
+        <div class="col-12 col-lg-8 offset-lg-2">
+        	          <h1>Phore Whitepaper</h1>
+          <p class="fs-20 opacity-70">Phore Project Whitepaper, PoS 3.0, Zerocoin Protocol</p>
+
+          
+										        </div>
+
+				<div class="col-12 align-self-end text-center">
+									</div>
+      </div>
+
+		</div></header>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="2fxr1m5" class="elementor-element elementor-element-2fxr1m5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="y62tioj" class="elementor-element elementor-element-y62tioj elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="e0ciz5b" class="elementor-element elementor-element-e0ciz5b elementor-widget elementor-widget-the-feature" data-element_type="the-feature.default">
+				<div class="elementor-widget-container">
+							<section 				 class="section    " >
+						<div class="container">
+								
+			<div class="text-center">
+				<ul class="nav nav-outline nav-round">
+				
+					
+						<li class="nav-item w-140">
+							<a class="nav-link active" data-toggle="tab" href="#tab-5a60ca062c7aa-1">Phore Whitepaper</a>
+						</li>
+
+					
+				
+					
+						<li class="nav-item w-140">
+							<a class="nav-link" data-toggle="tab" href="#tab-5a60ca062c7aa-2">PoS 2.0</a>
+						</li>
+
+					
+				
+					
+						<li class="nav-item w-140">
+							<a class="nav-link" data-toggle="tab" href="#tab-5a60ca062c7aa-3">PoS 3.0</a>
+						</li>
+
+					
+				
+					
+						<li class="nav-item w-140">
+							<a class="nav-link" data-toggle="tab" href="#tab-5a60ca062c7aa-4">ZeroCoin</a>
+						</li>
+
+					
+								</ul>
+			</div>
+
+
+			<br><br>
+
+
+			<div class="tab-content text-center" data-aos="fade-in">
+				
+					
+						<div class="tab-pane fade show active" id="tab-5a60ca062c7aa-1">
+							<h2>Phore Whitepaper PDF</h2>
+<h4><a href="https://github.com/phoreproject/documentation/blob/master/raw_documents/Phore_Whitepaper_2_EN.pdf" target="_blank" rel="noopener">English</a></h4>						</div>
+
+					
+				
+					
+						<div class="tab-pane fade" id="tab-5a60ca062c7aa-2">
+							<h2>Proof of Stake 2.0 Whitepaper PDF</h2>
+<h4><a href="http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf" target="_blank" rel="noopener">Download</a></h4>
+<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 26px; left: 20px;">Save</span>						</div>
+
+					
+				
+					
+						<div class="tab-pane fade" id="tab-5a60ca062c7aa-3">
+							<h2>Proof of Stake 3.0 Whitepaper PDF</h2>
+<h4><a href="https://www.dropbox.com/s/c3yldgd67yve7pt/Blackcoin%20POS%203.pdf" target="_blank" rel="noopener">Download</a></h4>
+<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 26px; left: 20px;">Save</span>
+						</div>
+
+					
+				
+					
+						<div class="tab-pane fade" id="tab-5a60ca062c7aa-4">
+							<h2>Zerocoin Protocol Whitepaper PDF</h2>
+<h4><a href="http://spar.isi.jhu.edu/~mgreen/ZerocoinOakland.pdf" target="_blank" rel="noopener">Download</a></h4>
+<span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 26px; left: 20px;">Save</span>						</div>
+
+					
+							</div>
+
+		</div></section>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+	</main>
+	<!-- END Main container -->
+
+				<!-- Footer -->
+      <footer class="site-footer">
+        <div class="container">
+          <div class="row gap-y">
+            <div class="col-12 col-md-6">
+              <p class="text-center text-md-left">Copyright © 2017 Phore. All rights reserved.</p>
+            </div>
+
+            <div class="col-12 col-md-6">
+	                        </div>
+          </div>
+        </div>
+      </footer>
+      <!-- END Footer -->
+			
+
+
+
+		<a class="scroll-top" href="#"><i class="fa fa-angle-up"></i></a>
+	
+	
+<script type='text/javascript' src='https://phore.io/template_main/assets/js/page.min.js?ver=1.2.0'></script>
+<script type='text/javascript'>
+$(function() { page.config({ googleApiKey: 'AIzaSyDRBLFOTTh2NFM93HpUA4ZrA99yKnCAsto', googleAnalyticsId: '', contactFormAction: 'https://phore.io/wp-admin/admin-ajax.php' }); });
+</script>
+<script type='text/javascript' src='https://phore.io/inc/js/embed.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://phore.io/plugins/the-elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"isEditMode":"","stretchedSectionContainer":"","is_rtl":"","post":{"id":239,"title":"Whitepaper","excerpt":""},"urls":{"assets":"https:\/\/phore.io\/wp-content\/plugins\/the-elementor\/assets\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://phore.io/plugins/the-elementor/assets/js/frontend.min.js?ver=1.5.9'></script>
+
+</body>
+</html>

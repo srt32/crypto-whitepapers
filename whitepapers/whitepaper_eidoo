@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="theme-color" content="#0f85b5" />
+	<title>Eidoo &#8211; Your blockchain asset experience  &raquo; White paper</title>
+	<meta name="viewport" content="width=device-width,height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	
+	<meta property="og:title" content="Eidoo &#8211; Your blockchain asset experience" />
+	<meta property="og:image" content="https://eidoo.io/wp-content/themes/eidoo/images/socialcover.jpg" />
+
+	<meta name="twitter:title" content="Eidoo" />
+	<meta name="twitter:description" content="Eidoo &#8211; Your blockchain asset experience">
+	<meta name="twitter:image" content="https://eidoo.io/wp-content/themes/eidoo/images/socialcover.jpg" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://eidoo.io/xmlrpc.php">
+	<link rel="shortcut icon" type="image/png" href="https://eidoo.io/wp-content/themes/eidoo/images/favicon.png"/>
+	
+	<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/eidoo.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://eidoo.io/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='chosen-css'  href='https://eidoo.io/wp-content/plugins/wp-job-manager/assets/css/chosen.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-job-manager-frontend-css'  href='https://eidoo.io/wp-content/plugins/wp-job-manager/assets/css/frontend.css?ver=1.29.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mdnooz-front-css'  href='https://eidoo.io/wp-content/plugins/nooz/inc/assets/front.css?ver=0.14.1' type='text/css' media='all' />
+<link rel='stylesheet' id='aos-style-css'  href='https://eidoo.io/wp-content/themes/eidoo/css/aos.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://eidoo.io/wp-content/themes/eidoo/css/owl.carousel.min.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='https://eidoo.io/wp-content/themes/eidoo/style.css?ver=1516292382' type='text/css' media='all' />
+<script type='text/javascript' src='https://eidoo.io/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://eidoo.io/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eidoo.io/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eidoo.io/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.1" />
+<link rel="canonical" href="https://eidoo.io/white-paper/" />
+<link rel='shortlink' href='https://eidoo.io/?p=203' />
+<link rel="alternate" type="application/json+oembed" href="https://eidoo.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feidoo.io%2Fwhite-paper%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://eidoo.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feidoo.io%2Fwhite-paper%2F&#038;format=xml" />
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MK5B3P7');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window,document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	 fbq('init', '1298908426903506'); 
+	fbq('track', 'PageView');
+	</script>
+	<noscript>
+	 <img height="1" width="1" 
+	src="https://www.facebook.com/tr?id=1298908426903506&ev=PageView
+	&noscript=1"/>
+	</noscript>
+	<!-- End Facebook Pixel Code -->
+</head>
+
+<body class="scroll-top">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MK5B3P7"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+<header class="entry_header">
+	<div class="wrapper">
+
+		<div class="menu-icon">
+	<span class="menu-icon_line menu-icon_line-left"></span>
+	<span class="menu-icon_line"></span>
+	<span class="menu-icon_line menu-icon_line-right"></span>
+	<p class="menu_text">MENU</p>
+</div>
+
+<div class="head_top">
+	
+	<a href="https://eidoo.io" class="logo">
+				<svg id="logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.89 65.74"><defs><style>.cls-1{opacity:1;}</style></defs><path class="cls-1" d="M32.37,163.44,38,169.1a4.54,4.54,0,0,0,6.42,0l5.66-5.66-8.87-8.87Z" transform="translate(-9.1 -104.69)"/><rect class="cls-1" x="48.99" y="117.91" width="12.54" height="12.54" transform="translate(-80.72 -29.24) rotate(-45)"/><path class="cls-1" d="M53.06,160.55l20.6-20.6a4.54,4.54,0,0,0,0-6.42L68,127.87,44.19,151.68Z" transform="translate(-9.1 -104.69)"/><rect class="cls-1" x="19.32" y="137.05" width="33.62" height="12.54" transform="translate(-99.86 -37.17) rotate(-45)"/><path class="cls-1" d="M10.43,141.48l5.66,5.66L25,138.27l-8.87-8.87-5.66,5.66A4.54,4.54,0,0,0,10.43,141.48Z" transform="translate(-9.1 -104.69)"/><path class="cls-1" d="M51.55,111.67,45.89,106a4.54,4.54,0,0,0-6.42,0l-20.6,20.6,8.87,8.87Z" transform="translate(-9.1 -104.69)"/></svg>
+			</a>
+	<div id="header_menus" class="nav text-right">
+		<div id="menu">
+			<ul class="extra_menu">
+				<li><a href="https://eidoo.io/jobs/">Jobs</a></li>
+				<li><a href="https://eidoo.io/white-paper/">White paper</a></li>
+				<li><a href="https://medium.com/eidoo" target="_blank">Blog</a></li>
+				<li><a href="/press">Press</a></li>
+				<li><a href="https://erc20-tokens.eidoo.io">Supported tokens</a></li>
+				<li><a href="/faq/en/">FAQ</a></li>
+			</ul>
+			<ul class="nav_menu">
+				<li id="home"><a href="https://eidoo.io/">HOME</a></li>
+				<li><a href="https://eidoo.io#eidoo_vision">THE VISION</a></li>
+				<li><a href="https://eidoo.io#roadmap">ROADMAP</a></li>
+				<li><a href="https://eidoo.io#team">TEAM</a></li>
+				<!-- <li class=""><a href="https://eidoo.io/ico-engine/">ICO ENGINE</a></li> -->
+				<li class=""><a href="https://btc.eidoo.io/">BITCOIN</a></li>
+				<li class="" ><a href="https://eth.eidoo.io/">ETHEREUM</a></li>
+				<li class="" ><a href="https://eidoo.io/ico-engine/">ICO ENGINE</a></li>
+			</ul>
+		</div>
+	</div>
+</div>		
+		<div class="entry_title">
+			<div id="documents_wrapper">
+				<h1>eidoo</h1>
+				<h3>Documents</h3>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+<div class="wrapper">
+
+	<h2 class="document_title"><a id="white-paper" href="#white-paper">White paper</a></h2>
+	<div class="documents" data-aos="fade-up">
+		<ul id="whitepaper_documents">
+			<li>
+				<span class="flag flag-en"></span>
+				<p>EIDOO_Technology_White_Paper_v_0_2_Draft_EN.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_EN.pdf" onclick="sendEvent('docs','white-paper-EN');" target="_blank">READ NOW</a>
+			</li>
+			<li>
+				<span class="flag flag-it"></span>
+				<p>EIDOO_Technology_White_Paper_v_0_2_Draft_IT.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_IT.pdf" onclick="sendEvent('docs','white-paper-IT');" target="_blank">READ NOW</a>
+			</li>
+			<li>
+				<span class="flag flag-ru"></span>
+				<p>EIDOO_Technology_White_Paper_v_0_2_Draft_RU.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_RU.pdf" onclick="sendEvent('docs','white-paper-RU');" target="_blank">READ NOW</a>
+			</li>
+			<li>
+				<span class="flag flag-jp"></span>
+				<p>EIDOO_Technology_White_Paper_v_0_2_Draft_JP.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_JP.pdf" onclick="sendEvent('docs','white-paper-JP');" target="_blank">READ NOW</a>
+			</li>
+			<li>
+				<span class="flag flag-cn"></span>
+				<p>EIDOO_Technology_White_Paper_v_0_2_Draft_CN.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Technology_White_Paper_v_0_2_Draft_CN.pdf" onclick="sendEvent('docs','white-paper-CN');" target="_blank">READ NOW</a>
+			</li>
+		</ul>
+	</div>
+
+	<h2 class="document_title"><a id="business-documents" href="#business-documents">Business Documents</a></h2>
+	<div class="documents" data-aos="fade-up">
+		<ul id="whitepaper_documents">
+			<li>
+				<span class="flag flag-en"></span>
+				<p>EIDOO_Ethereum_Funding_Informative_Prospect_v_1_0_EN.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Ethereum_Funding_Informative_Prospect_v_1_0_EN.pdf" onclick="sendEvent('docs','business-prospect-EN');" target="_blank">READ NOW</a>
+			</li>
+		</ul>
+	</div>
+
+	<h2 class="document_title"><a id="legal-documents" href="#legal-documents">Legal Documents</a></h2>
+	<div class="documents" data-aos="fade-up">
+		<ul id="whitepaper_documents">
+			<li>
+				<span class="flag flag-en"></span>
+				<p>EIDOO_Token_Sale_Terms_and_Conditions_EN.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Token_Sale_Terms_and_Conditions_EN.pdf" onclick="sendEvent('docs','ico-tos-EN');" target="_blank">READ NOW</a>
+			</li>
+		</ul>
+	</div>
+
+	<h2 class="document_title"><a id="legal-documents" href="#legal-documents">Other Documents</a></h2>
+	<div class="documents" data-aos="fade-up">
+		<ul id="whitepaper_documents">
+			<li>
+				<span class="flag flag-en"></span>
+				<p>EIDOO_Website_Penetration_Test_EN.pdf</p>
+				<a href="https://eidoo.io/docs/EIDOO_Website_Penetration_Test_EN.pdf" onclick="sendEvent('docs','pentest-EN');" target="_blank">READ NOW</a>
+			</li>
+		</ul>
+	</div>
+
+</div>
+
+<footer>
+	<div class="wrapper">
+		<div class="columns">
+			<div class="column eidoo_headquarter">
+				<svg id="logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.89 65.74"><defs><style>.cls-1{opacity:1;}</style></defs><path class="cls-1" d="M32.37,163.44,38,169.1a4.54,4.54,0,0,0,6.42,0l5.66-5.66-8.87-8.87Z" transform="translate(-9.1 -104.69)"/><rect class="cls-1" x="48.99" y="117.91" width="12.54" height="12.54" transform="translate(-80.72 -29.24) rotate(-45)"/><path class="cls-1" d="M53.06,160.55l20.6-20.6a4.54,4.54,0,0,0,0-6.42L68,127.87,44.19,151.68Z" transform="translate(-9.1 -104.69)"/><rect class="cls-1" x="19.32" y="137.05" width="33.62" height="12.54" transform="translate(-99.86 -37.17) rotate(-45)"/><path class="cls-1" d="M10.43,141.48l5.66,5.66L25,138.27l-8.87-8.87-5.66,5.66A4.54,4.54,0,0,0,10.43,141.48Z" transform="translate(-9.1 -104.69)"/><path class="cls-1" d="M51.55,111.67,45.89,106a4.54,4.54,0,0,0-6.42,0l-20.6,20.6,8.87,8.87Z" transform="translate(-9.1 -104.69)"/></svg>
+				<div>
+					<p>EIDOO SAGL</p>
+					<p>via Giuseppe Motta 10, 6830</p>
+					<p>Chiasso - Switzerland</p>
+				</div>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><a href="https://eidoo.io/white-paper/">White paper</a></li>
+					<li><a href="https://eidoo.io#roadmap" class="slide">RoadMap</a></li>
+					<li><a href="https://eidoo.io/press/" class="slide">Press Section</a></li>
+					<li><a href="https://eidoo.io/token-sale/">Token Sale</a></li>
+				</ul>
+			</div>
+
+			<div class="column">
+				<ul>
+					<li><a href="https://eth.eidoo.io/">Ethereum</a></li>
+					<li><a href="https://btc.eidoo.io/">Bitcoin</a></li>
+					<li><a href="https://eidoo.io/ico-engine/" class="slide">ICO Engine</a></li>
+					<li><a href="https://erc20-tokens.eidoo.io">Supported tokens</a></li>
+				</ul>
+			</div>
+			<div class="column">
+				<ul>
+					<li><a href="/faq/en/">FAQ</a></li>
+					<li><a href="https://eidoo.io/terms-of-service/">Terms of service</a></li>
+					<li><a href="https://eidoo.io/privacy-policy/">Privacy Policy</a></li>
+				</ul>
+			</div>
+
+		</div>
+
+		<div id="copyright" class="text-center">
+			Copyright &copy; Eidoo Sagl<br>
+			Swiss finance accuracy applied to cryptocurrency.
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/eidoo.io\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://eidoo.io/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-content/themes/eidoo/js/aos.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-content/themes/eidoo/js/horizontal-timeline.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-content/themes/eidoo/js/smooth_scroll.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-content/themes/eidoo/js/jquery.nanoscroller.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-content/themes/eidoo/js/clipboard.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-content/themes/eidoo/js/main.js?ver=1516292382'></script>
+<script type='text/javascript' src='https://eidoo.io/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-106323393-1', 'auto');
+	ga('send', 'pageview');
+</script>
+
+</body>
+</html>

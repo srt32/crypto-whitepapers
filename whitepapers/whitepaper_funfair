@@ -1,0 +1,599 @@
+
+<!doctype html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" >
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css?family=Exo+2" rel="stylesheet">
+    <title>White Papers | FunFair</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Read the original documents which explain FunFair&#039;s pioneering casino technology, written by FunFair founders Jez San and Jeremy Longley."/>
+<link rel="canonical" href="https://funfair.io/explore/whitepapers/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="White Papers | FunFair" />
+<meta property="og:description" content="Read the original documents which explain FunFair&#039;s pioneering casino technology, written by FunFair founders Jez San and Jeremy Longley." />
+<meta property="og:url" content="https://funfair.io/explore/whitepapers/" />
+<meta property="og:site_name" content="FunFair" />
+<meta property="og:image" content="https://funfair.io/wp-content/uploads/funfair-5.jpg" />
+<meta property="og:image:secure_url" content="https://funfair.io/wp-content/uploads/funfair-5.jpg" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Read the original documents which explain FunFair&#039;s pioneering casino technology, written by FunFair founders Jez San and Jeremy Longley." />
+<meta name="twitter:title" content="White Papers | FunFair" />
+<meta name="twitter:image" content="https://funfair.io/wp-content/uploads/funfair-5.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/funfair.io\/","name":"FunFair","potentialAction":{"@type":"SearchAction","target":"https:\/\/funfair.io\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='cookie-consent-style-css'  href='https://funfair.io/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylesheet-css'  href='https://funfair.io/wp-content/themes/funfair/assets/stylesheets/foundation.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='https://funfair.io/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=5.1.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='https://funfair.io/wp-content/themes/funfair/assets/javascript/slick.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://funfair.io/wp-content/themes/funfair/assets/javascript/custom.js?ver=4.9.2'></script>
+<link rel='https://api.w.org/' href='https://funfair.io/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://funfair.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffunfair.io%2Fexplore%2Fwhitepapers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://funfair.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffunfair.io%2Fexplore%2Fwhitepapers%2F&#038;format=xml" />
+<style type="text/css">
+                    .ctl-bullets-container {
+                display: table;
+                position: fixed;
+                left: 0;
+                height: 100%;
+                z-index: 1049;
+                font-weight: normal;
+            }.clt-compact-preloader {
+             border-radius:3px; position:absolute; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: rgba(245, 245, 245, 0.95) url("https://funfair.io/wp-content/plugins/cool-timeline-pro//images/clt-compact-preloader.gif") no-repeat center 10px; }
+	</style><style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #0a0a0a;
+					position: fixed;
+					left: 20px;
+					bottom: 6%;
+					width: 300px;
+					background-color: #ffffff;
+				}
+				#catapult-cookie-bar a {
+					color: #e42c84;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: #dd0000;
+				}
+				button#catapultCookie {
+					background:#e42c84;
+					color: #dd0000;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #0a0a0a;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style>      <!--[if IE]>
+  <link rel="stylesheet" type="text/css" href="all-ie-only.css" />
+<![endif]-->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://funfair.io/wp-content/themes/funfair/assets/images/icons/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://funfair.io/wp-content/themes/funfair/assets/images/icons/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://funfair.io/wp-content/themes/funfair/assets/images/icons/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://funfair.io/wp-content/themes/funfair/assets/images/icons/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://funfair.io/wp-content/themes/funfair/assets/images/icons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://funfair.io/wp-content/themes/funfair/assets/images/icons/mstile-310x310.png" />    <script>
+            if(typeof init === "undefined"){
+        function init(){}
+      }
+    </script>
+  </head>
+  <body class="page-template-default page page-id-105 page-child parent-pageid-42 nav-is-fixed offcanvas" onload="init();">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100892685-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  
+  <header class="cd-main-header">
+    <div class="header-row">
+      <div class="nav-left">
+        <div class="menu-top-left-container"><ul id="menu-top-left" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-46"><a href="https://funfair.io/explore/">Explore</a></li>
+</ul></div>      </div>
+              <a class="header-logo" href="https://funfair.io/" rel="home"><img src="https://funfair.io/wp-content/uploads/funfair-logo.gif" alt="FunFair"></a>
+      <div class="nav-right">
+        <div class="menu-top-right-container"><ul id="menu-top-right" class="menu"><li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://funfair.io/get-involved/">Get involved</a></li>
+</ul></div>      </div>
+    </div>
+    <div class="top-bar-left">
+      <ul class="social-icons">
+  <li><a target="_blank" href="https://www.facebook.com/groups/148397155706069/" title="FunFair on Facebook"><i class="icon-facebook"></i></a></li>
+  <li><a target="_blank" href="https://twitter.com/FunFairTech" title="FunFair on Twitter"><i class="icon-twitter"></i></a></li>
+  <li><a target="_blank" href="https://www.reddit.com/r/FunfairTech/" title="FunFair on Reddit"><i class="icon-reddit"></i></a></li>
+  <li><a target="_blank" href="https://discordapp.com/invite/rwETqSP" title="FunFair on Discord"><i class="icon-discord"></i></a></li>
+</ul>
+    </div>
+    <div id="top-right-fixed">
+
+    
+            <a href="https://showcase.funfair.io/" id="tr-cta" target="_blank"><span>SHOWCASE</span></a>
+            <div id="trigger-button">
+        <span class="cd-icon"></span>
+      </div>
+    </div>
+    <div id="header-hovers" class="container">
+    <div id="hh-0" class="header-hover">
+  <div class="row">
+    <div class="hh-inner">
+
+      <div class="hh-intro column medium-3">
+        <h4>See for yourself</h4>
+        <p>Play prototype slots and table games which use our unique technology to deliver casino gaming that's fun, fast and fair.</p>
+                <a href="https://showcase.funfair.io" class="button large"  target="_blank">VISIT SHOWCASE</a>
+              </div>
+      <div class="column medium-9">
+        <div class="hh-buttons">
+        <div class="row" id="hh-eq-0">
+                       
+            <div class="column medium-4">
+              <a href="https://funfair.io/explore/platform/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/033-layers.svg" alt="Platform" class="svg">
+                </div>
+                <div class="text">
+                  <h3>Platform</h3>
+                  <p>Discover what we're building and how it works</p>
+                </div>
+              </a>
+            </div>
+                                   
+            <div class="column medium-4">
+              <a href="https://funfair.io/explore/fun-token/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/fun-token-icon.svg" alt="Fun Token" class="svg">
+                </div>
+                <div class="text">
+                  <h3>Fun Token</h3>
+                  <p>Learn the many uses for our ecosystem's native coin</p>
+                </div>
+              </a>
+            </div>
+                                   
+            <div class="column medium-4">
+              <a href="https://funfair.io/explore/team/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/005-people-2.svg" alt="Team" class="svg">
+                </div>
+                <div class="text">
+                  <h3>Team</h3>
+                  <p>With decades of gaming experience, we know how to deliver</p>
+                </div>
+              </a>
+            </div>
+                          </div>
+              <div class="row">
+                                   
+            <div class="column medium-4">
+              <a href="https://funfair.io/explore/roadmap/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/028-location.svg" alt="Roadmap" class="svg">
+                </div>
+                <div class="text">
+                  <h3>Roadmap</h3>
+                  <p>See where we are today and when we're aiming to launch</p>
+                </div>
+              </a>
+            </div>
+                                   
+            <div class="column medium-4">
+              <a href="https://funfair.io/explore/news/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/002-megaphone.svg" alt="News" class="svg">
+                </div>
+                <div class="text">
+                  <h3>News</h3>
+                  <p>Get the latest news and blogs from the FunFair team</p>
+                </div>
+              </a>
+            </div>
+                                   
+            <div class="column medium-4 end">
+              <a href="https://funfair.io/explore/whitepapers/" class="hh-button active">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/029-interface.svg" alt="White Papers" class="svg">
+                </div>
+                <div class="text">
+                  <h3>White Papers</h3>
+                  <p>Read the commercial and technical bibles that guide what we do
+</p>
+                </div>
+              </a>
+            </div>
+                                </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  </div>
+
+    <div id="hh-1" class="header-hover">
+  <div class="row">
+    <div class="hh-inner">
+
+      <div class="hh-intro column medium-3">
+        <h4>See for yourself</h4>
+        <p>Play prototype slots and table games which use our unique technology to deliver casino gaming that's fun, fast and fair. </p>
+                <a href="http://showcase.funfair.io" class="button large"  target="_blank">VISIT SHOWCASE</a>
+              </div>
+      <div class="column medium-9">
+        <div class="hh-buttons">
+        <div class="row" id="hh-eq-1">
+                       
+            <div class="column medium-4">
+              <a href="https://funfair.io/get-involved/casinos/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/026-dice.svg" alt="Casinos" class="svg">
+                </div>
+                <div class="text">
+                  <h3>Casinos</h3>
+                  <p>See how our game-changing platform will let anyone run a casino</p>
+                </div>
+              </a>
+            </div>
+                                   
+            <div class="column medium-4">
+              <a href="https://funfair.io/get-involved/developers/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/025-cogwheel.svg" alt="Developers" class="svg">
+                </div>
+                <div class="text">
+                  <h3>Developers</h3>
+                  <p>See how you will be able to distribute your games and reach a new global audience</p>
+                </div>
+              </a>
+            </div>
+                                   
+            <div class="column medium-4 end">
+              <a href="https://funfair.io/get-involved/players/" class="hh-button ">
+                <div class="img-wrap">
+                  <img src="https://funfair.io/wp-content/uploads/003-cards.svg" alt="Players" class="svg">
+                </div>
+                <div class="text">
+                  <h3>Players</h3>
+                  <p>See why FunFair will be the ultimate casino experience for end users</p>
+                </div>
+              </a>
+            </div>
+                          </div>
+              <div class="row">
+                                </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  </div>
+
+    
+</div>  </header>
+
+
+  <main class="cd-main-content">
+      
+
+
+
+
+<div id="main" role="main">
+
+    
+    
+  <div id="main-content">
+
+  
+    
+<header id="hero" role="banner" class="stripe header  ">
+  <div class="hero-inner text-center parallax-window" data-parallax="scroll" data-image-src="https://funfair.io/wp-content/uploads/funfair-4.jpg">
+    <div class="row fullWidth">
+      <div class="column">
+        <h1 class="entry-title">White Papers</h1>
+        <p class="larger">Read the commercial and technical bibles we live by and see why FunFair's technology is so unique</p>
+      </div>
+    </div>
+  </div>
+</header>
+<section id="white-papers" class="stripe  style-a ">
+	<div class="row animatedParent">
+		<section class="stripe">
+<div class="row">
+<div class="column">
+<div class="columns medium-4">
+<div class="whitepaper-card">
+			<img class="whitepaper-card-img" src="/wp-content/uploads/funfair331-gradient.jpg"></p>
+<div class="whitepaper-card-content">
+<div class="whitepaper-card-language"><img src="/wp-content/uploads/whitepapers.svg" /></div>
+<h4>English</h4>
+<p class="whitepaper-card-description">Read the &#8216;why&#8217;, &#8216;what&#8217; and &#8216;how&#8217; of FunFair’s mission from the two documents that matter most.</p>
+<p><a class="button expanded" target="_blank" href="/wp-content/uploads/FunFair-Commercial-White-Paper.pdf" onClick="ga('send', 'event', 'ExternalLink', 'EnglishCommercial');">Commercial</a><a class="button expanded" target="_blank" href="/wp-content/uploads/FunFair-Technical-White-Paper.pdf" onClick="ga('send', 'event', 'ExternalLink', 'EnglishTechnical');">Technical</a></div>
+</div>
+</div>
+<div class="columns medium-4">
+<div class="whitepaper-card">
+			<img class="whitepaper-card-img" src="/wp-content/uploads/funfair331-gradient.jpg"></p>
+<div class="whitepaper-card-content">
+<div class="whitepaper-card-language"><img src="/wp-content/uploads/whitepapers.svg" /></div>
+<h4>Português (Portuguese)</h4>
+<p class="whitepaper-card-description">Leia &#8220;por que&#8221;, &#8220;o que&#8221; e &#8220;como&#8221; para a missão da FunFair nos dois documentos mais importantes.</p>
+<p><a class="button expanded" href="/wp-content/uploads/PT-WhitePaper-Comercial.pdf" target="_blank" onClick="ga('send', 'event', 'ExternalLink', 'PortugeseCommercial');">Comercial</a><a class="button expanded" target="_blank" href="/wp-content/uploads/PT-WhitePaper-_-FunFair-Tecnologia.pdf" onClick="ga('send', 'event', 'ExternalLink', 'PortugeseTechnical');">Técnico</a></div>
+</div>
+</div>
+<div class="columns medium-4">
+<div class="whitepaper-card">
+			<img class="whitepaper-card-img" src="/wp-content/uploads/funfair331-gradient.jpg"></p>
+<div class="whitepaper-card-content">
+<div class="whitepaper-card-language"><img src="/wp-content/uploads/whitepapers.svg" /></div>
+<h4>한국어 (Korean)</h4>
+<p class="whitepaper-card-description">두 가지 가장 중요한 문서에서 FunFair의 사명을 &#8216;왜&#8217;, &#8216;무엇&#8217;및 &#8216;어떻게&#8217;읽는지.</p>
+<p><a class="button expanded" target="_blank" href="/wp-content/uploads/KR-funfair_whitepaper-kor.pdf" onClick="ga('send', 'event', 'ExternalLink', 'KoreahCommercial');">상업용 백서</a><a class="button expanded" target="_blank" href="/wp-content/uploads/Technical-White-Paper-Korean.pdf" onClick="ga('send', 'event', 'ExternalLink', 'KoreanTechnical');">기술로드맵및토론</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+	</div>
+</section>
+
+      
+    <div id="page-content" class="fullWidth">
+
+      <div class="">
+
+        
+      </div>
+
+    </div>
+
+  </div>
+    
+
+
+
+
+
+
+
+
+        <div id="pre-footer">
+            <div class="fullWidth">
+                <div class="container">
+
+                        				        <section class="subscribe stripe style-a border">
+<div class="row text-center">
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.1.9 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-446" method="post" data-id="446" data-name="Funfair mailing list" ><div class="mc4wp-form-fields"><div class="column medium-8 text-center medium-centered">
+  <h2>Join our mailing list</h2>
+  <p>Be the first to receive key announcements, product updates and blog posts from the FunFair team.<br>By submitting your details you agree to our <a href="/privacy/">privacy policy</a>.</p>
+
+  <div class="newsletter-wrap">
+    <div class="email-icon-wrap">
+      <img class="float-right" src="/wp-content/uploads/mailing-list-ff-icon-1.svg" width="75px">
+    </div>
+    <div class="input-wrap">
+      <input id="middle-label" name="EMAIL" placeholder="Your email address" required="" type="email">
+    </div>
+    <div class="submit-wrap">
+      <input class="button secondary expanded" type="submit" value="Sign up" onSubmit="ga('send', 'event', 'ExternalLink', 'SignUp');">
+    </div>
+  </div>
+</div>
+			<label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1516291535" /><input type="hidden" name="_mc4wp_form_id" value="446" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
+</div>
+</section>
+
+
+                </div>
+            </div>
+		</div>
+
+
+
+<div id="footer-container" class="container">
+  <footer id="footer" class="row">
+        <div class="columns medium-4">
+              <a class="footer-logo" href="https://funfair.io/" rel="home"><img src="https://funfair.io/wp-content/uploads/funfair-logo.gif" alt="FunFair"></a>
+      <article id="text-2" class="widget widget_text">			<div class="textwidget"><p>FunFair provides blockchain-powered solutions to the online gaming industry. Using the latest Ethereum technology, FunFair delivers low cost, high quality, transparent casino experiences which can open up the global gaming market.</p>
+</div>
+		</article>    </div>
+    <div class="column medium-8">
+      <div class="row">
+        <article id="nav_menu-3" class="medium-4 columns widget widget_nav_menu"><h5>PRODUCT</h5><div class="menu-footer-col-1-container"><ul id="menu-footer-col-1" class="menu"><li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://funfair.io/explore/platform/">Platform</a></li>
+<li id="menu-item-1346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346"><a target="_blank" href="https://showcase.funfair.io/">Showcase</a></li>
+<li id="menu-item-1260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1260"><a href="https://funfair.io/explore/fun-token/">Token</a></li>
+<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://funfair.io/explore/roadmap/">Roadmap</a></li>
+<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-105 current_page_item menu-item-246 active"><a href="https://funfair.io/explore/whitepapers/">White Papers</a></li>
+<li id="menu-item-1318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1318"><a href="https://funfair.io/glossary/">Glossary</a></li>
+<li id="menu-item-1320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1320"><a href="https://funfair.io/explore/news/">News</a></li>
+</ul></div></article>        <article id="nav_menu-4" class="medium-4 columns widget widget_nav_menu"><h5>COMPANY</h5><div class="menu-footer-col-2-container"><ul id="menu-footer-col-2" class="menu"><li id="menu-item-1312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"><a href="https://funfair.io/about/">About</a></li>
+<li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="https://funfair.io/explore/team/">Team</a></li>
+<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283"><a href="https://funfair.io/careers/">Careers</a></li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://funfair.io/press/">Media &#038; Resources</a></li>
+<li id="menu-item-1319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1319"><a href="https://funfair.io/token-event/">Token Event</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257"><a href="https://funfair.io/privacy-policy/">Privacy policy</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="https://funfair.io/contact/">Contact</a></li>
+</ul></div></article>        <article id="nav_menu-5" class="medium-4 columns widget widget_nav_menu"><h5>COMMUNITY</h5><div class="menu-footer-col-3-container"><ul id="menu-footer-col-3" class="menu"><li id="menu-item-258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-258"><a target="_blank" href="https://discordapp.com/invite/rwETqSP">Discord</a></li>
+<li id="menu-item-259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-259"><a target="_blank" href="https://t.me/FunFairTech/">Telegram</a></li>
+<li id="menu-item-260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260"><a target="_blank" href="https://twitter.com/FunFairTech">Twitter</a></li>
+<li id="menu-item-261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-261"><a target="_blank" href="https://www.facebook.com/groups/148397155706069/">Facebook</a></li>
+<li id="menu-item-262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-262"><a target="_blank" href="https://www.reddit.com/r/FunfairTech/">Reddit</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-264"><a target="_blank" href="https://www.youtube.com/channel/UCr83ZHr_jPV_ANrs8u0cGSw">YouTube</a></li>
+</ul></div></article>      </div>
+    </div>
+      </footer>
+</div>
+<div id="footer-2" class="container">
+  <div class="row">
+    <div class="column small-2"><!--[switch]-->&nbsp;</div>
+    <div class="column small-8 end" id="copyright">Copyright &copy; 2018 FunFair Technologies. All rights reserved. Website by <a class="logo438" href="http://www.438marketing.com" target="_blank">438</a></div>
+      </div>
+</div>
+
+
+
+</main>
+<a href="#top" class="scroll-to-top"><img src="https://funfair.io/wp-content/themes/funfair/assets/images/icons/top-ff-icon.svg" /></a>
+
+
+<div class="cd-overlay"></div>
+
+<div class="cdm-mobile">
+
+<nav id="cd-primary-nav-mobile" class="cd-primary-nav is-fixed cd-nav">
+<div id="offc-menu">
+<ul id="menu-main" class="vertical menu">
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/explore/platform/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/033-layers.svg" alt="" class="svg"></div><span>Platform</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://showcase.funfair.io#new_tab'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/031-multimedia.svg" alt="" class="svg"></div><span>Showcase</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/explore/fun-token/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/fun-token-icon.svg" alt="" class="svg"></div><span>Fun Token</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/explore/team/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/005-people-2.svg" alt="" class="svg"></div><span>Team</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-105 current_page_item'><a href='https://funfair.io/explore/whitepapers/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/029-interface.svg" alt="" class="svg"></div><span>White Papers</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/explore/roadmap/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/028-location.svg" alt="" class="svg"></div><span>Roadmap</span></a></li>
+
+<li class='sep menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/get-involved/casinos/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/026-dice.svg" alt="" class="svg"></div><span>Casinos</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/get-involved/developers/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/025-cogwheel.svg" alt="" class="svg"></div><span>Developers</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/get-involved/players/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/003-cards.svg" alt="" class="svg"></div><span>Players</span></a></li>
+
+<li class='sep menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/explore/news/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/002-megaphone.svg" alt="" class="svg"></div><span>News</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/careers/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/008-construction.svg" alt="" class="svg"></div><span>Careers</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/about/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/006-interface.svg" alt="" class="svg"></div><span>About</span></a></li>
+
+<li class=' menu-item menu-item-type-post_type menu-item-object-page'><a href='https://funfair.io/contact/'><div class="menu-svg-wrap"><img src="https://funfair.io/wp-content/uploads/021-web.svg" alt="" class="svg"></div><span>Contact</span></a></li>
+</ul>
+<ul class="social-icons">
+  <li><a target="_blank" href="https://www.facebook.com/groups/148397155706069/" title="FunFair on Facebook"><i class="icon-facebook"></i></a></li>
+  <li><a target="_blank" href="https://twitter.com/FunFairTech" title="FunFair on Twitter"><i class="icon-twitter"></i></a></li>
+  <li><a target="_blank" href="https://www.reddit.com/r/FunfairTech/" title="FunFair on Reddit"><i class="icon-reddit"></i></a></li>
+  <li><a target="_blank" href="https://discordapp.com/invite/rwETqSP" title="FunFair on Discord"><i class="icon-discord"></i></a></li>
+</ul>
+</div>
+</nav> <!-- cd-nav -->
+</div>
+
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript'>
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"1","version":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://funfair.io/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js?ver=2.3.0'></script>
+<script type='text/javascript' src='https://funfair.io/wp-content/themes/funfair/assets/javascript/foundation.js?ver=2.6.1'></script>
+<script type='text/javascript' src='https://funfair.io/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='https://funfair.io/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var privySettings = {"business_id":"95EBEAEE2CFE8EBE9DC8BCF4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://widget.privy.com/assets/widget.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://funfair.io/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.1.9'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://funfair.io/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.9'></script>
+<![endif]-->
+			
+				<script type="text/javascript">
+					jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-bottom-left-block");
+							$("html").addClass("cookie-bar-block");
+													}
+																	});
+				</script>
+			
+			<div id="catapult-cookie-bar" class=" drop-shadow use_x_close float-accept"><h3>Cookie Policy</h3><span class="ctcc-left-side">We use cookies to give you the best online experience. By using our website you agree to our use of cookies in accordance with our <a class="ctcc-more-info-link" tabindex=0 target="_blank" href="https://funfair.io/privacy-policy/">cookie policy.</a></span><span class="ctcc-right-side"></span><div class="x_close"><span></span><span></span></div></div><!-- #catapult-cookie-bar -->
+<script type='text/javascript' src='https://funfair.io/wp-content/themes/funfair/assets/javascript/parallax.js'></script>
+</body></html>
